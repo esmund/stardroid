@@ -14,6 +14,8 @@
 
 package com.google.android.stardroid.source.proto;
 
+import android.content.res.Resources;
+
 import com.google.android.stardroid.source.AbstractAstronomicalSource;
 import com.google.android.stardroid.source.LineSource;
 import com.google.android.stardroid.source.PointSource;
@@ -27,8 +29,6 @@ import com.google.android.stardroid.source.proto.SourceProto.LabelElementProto;
 import com.google.android.stardroid.source.proto.SourceProto.LineElementProto;
 import com.google.android.stardroid.source.proto.SourceProto.PointElementProto;
 import com.google.android.stardroid.units.GeocentricCoordinates;
-
-import android.content.res.Resources;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -77,6 +77,7 @@ public class ProtobufAstronomicalSource extends AbstractAstronomicalSource {
       names = new ArrayList<String>(proto.getNameIdsCount());
       for (int id : proto.getNameIdsList()) {
         names.add(resources.getString(id));
+        //Log.d("names","name at "+" = "+names.get(id));
       }
     }
     return names;
@@ -102,18 +103,47 @@ public class ProtobufAstronomicalSource extends AbstractAstronomicalSource {
 
   @Override
   public List<TextSource> getLabels() {
+    // TODO:check pref for names to decide to use string values or string names
     if (proto.getLabelCount() == 0) {
       return Collections.<TextSource>emptyList();
     }
     ArrayList<TextSource> points = new ArrayList<TextSource>(proto.getLabelCount());
-    for (LabelElementProto element : proto.getLabelList()) {
-      points.add(new TextSourceImpl(getCoords(element.getLocation()),
-          resources.getString(element.getStringIndex()),
-          element.getColor(), element.getOffset(), element.getFontSize()));
+
+      for (LabelElementProto element : proto.getLabelList()) {
+        points.add(new TextSourceImpl(getCoords(element.getLocation()),
+                resources.getString(element.getStringIndex()),
+                element.getColor(), element.getOffset(), element.getFontSize()));
     }
     return points;
 
   }
+
+//  @Override
+//  public List<TextSource> getLabels(boolean hasStringValues) {
+//    if (proto.getLabelCount() == 0) {
+//      return Collections.<TextSource>emptyList();
+//    }
+//
+//    if (hasStringValues){
+//      Log.d("string","current source is not special");
+//      return getLabels();
+//    }
+//    else {
+//      ArrayList<TextSource> points = new ArrayList<TextSource>(proto.getLabelCount());
+//      for (LabelElementProto element : proto.getLabelList()) {
+//        points.add(new TextSourceImpl(getCoords(element.getLocation()),
+//                resources.getResourceEntryName(element.getStringIndex()),
+//                element.getColor(), element.getOffset(), element.getFontSize()));
+//        //Log.d("string","current layer - "+this.toString());
+//        Log.d("string","string here? - "+resources.getString(element.getStringIndex()));
+//        Log.d("string","resource name is - "+resources.getResourceName(element.getStringIndex()));
+//        Log.d("string","resource entry is - "+resources.getResourceEntryName(element.getStringIndex()));
+//
+//      }
+//      return points;
+//    }
+//
+//  }
 
   @Override
   public List<LineSource> getLines() {

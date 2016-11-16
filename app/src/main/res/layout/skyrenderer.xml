@@ -90,45 +90,85 @@
         android:background="@drawable/sidebarnoelements"
         stardroid:fade_time="500">
       <com.google.android.stardroid.views.PreferencesButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="11px"
-        android:paddingBottom="7px"
-        android:paddingLeft="5px"
-        android:background="#00000000"
-        stardroid:pref_key="source_provider.0"
-        stardroid:image_on="@drawable/star_on"
-        stardroid:image_off="@drawable/star_off"/>
-       <com.google.android.stardroid.views.PreferencesButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="7px"
-        android:paddingBottom="7px"
-        android:paddingLeft="5px"
-        android:background="#00000000"
-        stardroid:pref_key="source_provider.1"
-        stardroid:image_on="@drawable/stars_on"
-        stardroid:image_off="@drawable/stars_off"/>
-       <com.google.android.stardroid.views.PreferencesButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="7px"
-        android:paddingBottom="7px"
-        android:paddingLeft="5px"
-        android:background="#00000000"
-        stardroid:pref_key="source_provider.2"
-        stardroid:image_on="@drawable/messier_on"
-        stardroid:image_off="@drawable/messier_off" />
-       <com.google.android.stardroid.views.PreferencesButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="7px"
-        android:paddingBottom="7px"
-        android:paddingLeft="5px"
-        android:background="#00000000"
-        stardroid:pref_key="source_provider.3"
-        stardroid:image_on="@drawable/planet_on"
-        stardroid:image_off="@drawable/planet_off" />
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="11px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.0"
+          stardroid:image_on="@drawable/star_on"
+          stardroid:image_off="@drawable/star_off"/>
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="11px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.7"
+          stardroid:image_on="@drawable/star_on"
+          stardroid:image_off="@drawable/star_off"/>
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="7px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.1"
+          stardroid:image_on="@drawable/stars_on"
+          stardroid:image_off="@drawable/stars_off"/>
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="7px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.9"
+          stardroid:image_on="@drawable/stars_on"
+          stardroid:image_off="@drawable/stars_off"/>
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="7px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.2"
+          stardroid:image_on="@drawable/messier_on"
+          stardroid:image_off="@drawable/messier_off" />
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="7px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.8"
+          stardroid:image_on="@drawable/messier_on"
+          stardroid:image_off="@drawable/messier_off" />
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="7px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.3"
+          stardroid:image_on="@drawable/planet_on"
+          stardroid:image_off="@drawable/planet_off" />
+      <com.google.android.stardroid.views.PreferencesButton
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingTop="7px"
+          android:paddingBottom="7px"
+          android:paddingLeft="5px"
+          android:background="#00000000"
+          stardroid:pref_key="source_provider.10"
+          stardroid:image_on="@drawable/planet_on"
+          stardroid:image_off="@drawable/planet_off" />
        <com.google.android.stardroid.views.PreferencesButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

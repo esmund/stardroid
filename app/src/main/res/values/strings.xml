@@ -32,9 +32,13 @@
     <!-- This string is too long and currently unused -->
     <string name="provider_prefs" translation_description="Dialog box title for a preferences dialog">Show...</string>
     <string name="show_stars_pref">Stars</string>
+    <string name="show_mod_stars_pref">modStars</string>
+    <string name="show_mod_messier_objects_pref">modMessier</string>
+    <string name="show_mod_constellations_pref">modConstellations</string>
     <string name="show_constellations_pref">Constellations</string>
     <string name="show_messier_objects_pref" translation_description="The celestial objects catalogued by Charles Messier">Messier Objects</string>
     <string name="show_planets_pref">Solar System</string>
+    <string name="show_mod_planets_pref">modSolar System</string>
     <string name="show_grid_pref">RA/Dec Grid</string>
     <string name="show_horizon_pref">Horizon</string>
     <string name="show_sky_gradient" translation_description="This is a shading of the color of the sky used for effect">Sky Gradient</string>
@@ -424,4 +428,281 @@
         map with your fingers.
     </string>
     <string name="do_not_show_again">Do not show this message again</string>
+
+    <!--Strings for modified binary-->
+    <string name="sun_1">Sun_1</string>
+    <string name="moon_1">Moon_1</string>
+    <string name="mercury_1">Mercury_1</string>
+    <string name="venus_1">Venus_1</string>
+    <string name="earth_1">Earth_1</string>
+    <string name="mars_1">Mars_1</string>
+    <string name="jupiter_1">Jupiter_1</string>
+    <string name="saturn_1">Saturn_1</string>
+    <string name="uranus_1">Uranus_1</string>
+    <string name="neptune_1">Neptune_1</string>
+    <string name="pluto_1">Pluto_1</string>
+
+    <string name="crab_nebula_1" translation_description="hubble object">Crab Nebula_1</string>
+    <string name="eagle_nebula_1" translation_description="hubble object">Eagle Nebula_1</string>
+    <string name="andromeda_galaxy_1" translation_description="hubble object">Andromeda Galaxy_1</string>
+    <string name="orion_nebula_1" translation_description="hubble object">Orion Nebula_1</string>
+    <string name="whirlpool_galaxy_1" translation_description="hubble object">Whirlpool Galaxy_1</string>
+    <string name="ring_nebula_1" translation_description="hubble object">Ring Nebula</string>
+    <string name="pinwheel_galaxy_1" translation_description="hubble object">Pinwheel Galaxy</string>
+    <string name="sombrero_galaxy_1" translation_description="hubble object">Sombrero Galaxy</string>
+    <string name="hercules_gc_1" translation_description="hubble object">Hercules Globular Cluster</string>
+    <string name="pleiades_1" translation_description="hubble object">Pleiades</string>
+    <string name="cats_eye_nebula_1" translation_description="hubble object">Cat\'s Eye Nebula</string>
+    <string name="omega_centauri_1" translation_description="hubble object">Omega Centauri Globular Cluster</string>
+    <string name="v838_mon_1" translation_description="hubble object">V838 Monocerotis</string>
+    <string name="sn1987a_1" translation_description="hubble object">Supernova 1987a</string>
+    <string name="hubble_deep_field_1" translation_description="hubble object">Hubble Deep Field</string>
+    <string name="hdf_1" translation_description="hubble object">Hubble Deep Field</string>
+    <string name="rho_oph_1" translation_description="hubble object">Rho Ophiuchus</string>
+
+
+    <string name="andromeda_1" translation_description="Name of the Andromeda constellation">Andromeda_1</string>
+    <string name="aquarius_1" translation_description="Name of the Aquarius constellation">Aquarius_1</string>
+    <string name="aquila_1" translation_description="Name of the Aquila constellation">Aquila_1</string>
+    <string name="aries_1" translation_description="Name of the Aries constellation">Aries_1</string>
+    <string name="auriga_1" translation_description="Name of the Auriga constellation">Auriga_1</string>
+    <string name="bootes_1" translation_description="Name of the Bootes constellation">Bootes_1</string>
+    <string name="cancer_1" translation_description="Name of the Cancer constellation">Cancer_1</string>
+    <string name="canis_major_1" translation_description="Name of the Canis Major constellation">Canis Major_1</string>
+    <string name="capricornus_1" translation_description="Name of the Capricornus constellation">Capricornus_1</string>
+    <string name="carina_1" translation_description="Name of the Carina constellation">Carina_1</string>
+    <string name="cassiopeia_1" translation_description="Name of the Cassiopeia constellation">Cassiopeia_1</string>
+    <string name="centaurus_1" translation_description="Name of the Centaurus constellation">Centaurus_1</string>
+    <string name="cetus_1" translation_description="Name of the Cetus constellation">Cetus_1</string>
+    <string name="crux_1" translation_description="Name of the Crux constellation">Crux_1</string>
+    <string name="cygnus_1" translation_description="Name of the Cygnus constellation">Cygnus_1</string>
+    <string name="draco_1" translation_description="Name of the Draco constellation">Draco_1</string>
+    <string name="eridanus_1" translation_description="Name of the Eridanus constellation">Eridanus_1</string>
+    <string name="gemini_1" translation_description="Name of the Gemini constellation">Gemini_1</string>
+    <string name="grus_1" translation_description="Name of the Grus constellation">Grus_1</string>
+    <string name="hercules_1" translation_description="Name of the Hercules constellation">Hercules_1</string>
+    <string name="hydrus_1" translation_description="Name of the Hydrus constellation">Hydrus_1</string>
+    <string name="leo_1" translation_description="Name of the Leo constellation">Leo_1</string>
+    <string name="libra_1" translation_description="Name of the Libra constellation">Libra_1</string>
+    <string name="lupus_1" translation_description="Name of the Lupus constellation">Lupus_1</string>
+    <string name="lyra_1" translation_description="Name of the Lyra constellation">Lyra_1</string>
+    <string name="ophiuchus_1" translation_description="Name of the Ophiuchus constellation">Ophiuchus_1</string>
+    <string name="orion_1" translation_description="Name of the Orion constellation">Orion_1</string>
+    <string name="pavo_1" translation_description="Name of the Pavo constellation">Pavo_1</string>
+    <string name="pegasus_1" translation_description="Name of the Pegasus constellation">Pegasus_1</string>
+    <string name="perseus_1" translation_description="Name of the Perseus constellation">Perseus_1</string>
+    <string name="phoenix_1" translation_description="Name of the Phoenix constellation">Phoenix_1</string>
+    <string name="pisces_1" translation_description="Name of the Pisces constellation">Pisces_1</string>
+    <string name="piscis_austrinus_1" translation_description="Name of the Piscis Austrinus constellation">Piscis Austrinus_1</string>
+    <string name="puppis_1" translation_description="Name of the Puppis constellation">Puppis_1</string>
+    <string name="sagittarius_1" translation_description="Name of the Sagittarius constellation">Sagittarius_1</string>
+    <string name="scorpius_1" translation_description="Name of the Scorpius constellation">Scorpius_1</string>
+    <string name="taurus_1" translation_description="Name of the Taurus constellation">Taurus_1</string>
+    <string name="tucana_1" translation_description="Name of the Tucana constellation">Tucana_1</string>
+    <string name="ursa_major_1" translation_description="Name of the Ursa Major constellation">Ursa Major_1</string>
+    <string name="ursa_minor_1" translation_description="Name of the Ursa Minor constellation">Ursa Minor_1</string>
+    <string name="vela_1" translation_description="Name of the Vela constellation">Vela_1</string>
+    <string name="virgo_1" translation_description="Name of the Virgo constellation">Virgo_1</string>
+    <string name="capricorn_1" translation_description="Name of the Capricorn constellation">Capricorn_1</string>
+    <string name="southern_cross_1" translation_description="Name of the Southern Cross constellation">Southern Cross_1</string>
+    <string name="scorpio_1" translation_description="Name of the Scorpio constellation">Scorpio_1</string>
+    <string name="little_dipper_1" translation_description="Name of the Little Dipper constellation">Little Dipper_1</string>
+    <string name="little_bear_1" translation_description="Name of the Little Bear constellation">Little Bear_1</string>
+    <string name="big_dipper_1" translation_description="Name of the Big Dipper constellation">Big Dipper_1</string>
+    <string name="great_bear_1" translation_description="Name of the Great Bear constellation">Great Bear_1</string>
+    <string name="plough_1" translation_description="Name of the Plough constellation">Plough_1</string>
+
+    <string name="sirius_1" translation_description="Name of the Star Sirius">Sirius_1</string>
+    <string name="canopus_1" translation_description="Name of the Star Canopus">Canopus_1</string>
+    <string name="arcturus_1" translation_description="Name of the Star Arcturus">Arcturus_1</string>
+    <string name="rigel_kentaurus_a_1" translation_description="Name of the Star Rigel Kentaurus A">Rigel Kentaurus A_1</string>
+    <string name="rigil_kentaurus_a_1" translation_description="Name of the Star Rigil Kentaurus A">Rigil Kentaurus A_1</string>
+    <string name="vega_1" translation_description="Name of the Star Vega">Vega_1</string>
+    <string name="rigel_1" translation_description="Name of the Star Rigel">Rigel_1</string>
+    <string name="procyon_1" translation_description="Name of the Star Procyon">Procyon_1</string>
+    <string name="betelgeuse_1" translation_description="Name of the Star Betelgeuse">Betelgeuse_1</string>
+    <string name="achernar_1" translation_description="Name of the Star Achernar">Achernar_1</string>
+    <string name="hadar_1" translation_description="Name of the Star Hadar">Hadar_1</string>
+    <string name="capella_1" translation_description="Name of the Star Capella">Capella_1</string>
+    <string name="altair_1" translation_description="Name of the Star Altair">Altair_1</string>
+    <string name="acrux_1" translation_description="Name of the Star Acrux">Acrux_1</string>
+    <string name="aldebaran_1" translation_description="Name of the Star Aldebaran">Aldebaran_1</string>
+    <string name="spica_1" translation_description="Name of the Star Spica">Spica_1</string>
+    <string name="antares_1" translation_description="Name of the Star Antares">Antares_1</string>
+    <string name="pollux_1" translation_description="Name of the Star Pollux">Pollux_1</string>
+    <string name="fomalhaut_1" translation_description="Name of the Star Fomalhaut">Fomalhaut_1</string>
+    <string name="deneb_1" translation_description="Name of the Star Deneb">Deneb_1</string>
+    <string name="regulus_1" translation_description="Name of the Star Regulus">Regulus_1</string>
+    <string name="adhara_1" translation_description="Name of the Star Adhara">Adhara_1</string>
+    <string name="shaula_1" translation_description="Name of the Star Shaula">Shaula_1</string>
+    <string name="alnath_1" translation_description="Name of the Star Alnath">Alnath_1</string>
+    <string name="alnilam_1" translation_description="Name of the Star Alnilam">Alnilam_1</string>
+    <string name="alnair_1" translation_description="Name of the Star Alnair">Alnair_1</string>
+    <string name="alioth_1" translation_description="Name of the Star Alioth">Alioth_1</string>
+    <string name="mirphak_1" translation_description="Name of the Star Mirphak">Mirphak_1</string>
+    <string name="kaus_australis_1" translation_description="Name of the Star Kaus Australis">Kaus Australis_1</string>
+    <string name="dubhe_1" translation_description="Name of the Star Dubhe">Dubhe_1</string>
+    <string name="alkaid_1" translation_description="Name of the Star Alkaid">Alkaid_1</string>
+    <string name="alhena_1" translation_description="Name of the Star Alhena">Alhena_1</string>
+    <string name="castor_1" translation_description="Name of the Star Castor">Castor_1</string>
+    <string name="polaris_1" translation_description="Name of the Star Polaris">Polaris_1</string>
+    <string name="alphard_1" translation_description="Name of the Star Alphard">Alphard_1</string>
+    <string name="hamal_1" translation_description="Name of the Star Hamal">Hamal_1</string>
+    <string name="algieba_1" translation_description="Name of the Star Algieba">Algieba_1</string>
+    <string name="diphda_1" translation_description="Name of the Star Diphda">Diphda_1</string>
+    <string name="nunki_1" translation_description="Name of the Star Nunki">Nunki_1</string>
+    <string name="mirach_1" translation_description="Name of the Star Mirach">Mirach_1</string>
+    <string name="alpheratz_1" translation_description="Name of the Star Alpheratz">Alpheratz_1</string>
+    <string name="saiph_1" translation_description="Name of the Star Saiph">Saiph_1</string>
+    <string name="kochab_1" translation_description="Name of the Star Kochab">Kochab_1</string>
+    <string name="rasalhague_1" translation_description="Name of the Star Rasalhague">Rasalhague_1</string>
+    <string name="algol_1" translation_description="Name of the Star Algol">Algol_1</string>
+    <string name="denebola_1" translation_description="Name of the Star Denebola">Denebola_1</string>
+    <string name="alphekka_1" translation_description="Name of the Star Alphekka">Alphekka_1</string>
+    <string name="etamin_1" translation_description="Name of the Star Etamin">Etamin_1</string>
+    <string name="kaus_1" translation_description="Name of the Star Kaus">Kaus_1</string>
+    <string name="shedir_1" translation_description="Name of the Star Shedir">Shedir_1</string>
+    <string name="caph_1" translation_description="Name of the Star Caph">Caph_1</string>
+    <string name="izar_1" translation_description="Name of the Star Izar">Izar_1</string>
+    <string name="merak_1" translation_description="Name of the Star Merak">Merak_1</string>
+    <string name="enif_1" translation_description="Name of the Star Enif">Enif_1</string>
+    <string name="ankaa_1" translation_description="Name of the Star Ankaa">Ankaa_1</string>
+    <string name="phad_1" translation_description="Name of the Star Phad">Phad_1</string>
+    <string name="alderamin_1" translation_description="Name of the Star Alderamin">Alderamin_1</string>
+    <string name="scheat_1" translation_description="Name of the Star Scheat">Scheat_1</string>
+    <string name="markab_1" translation_description="Name of the Star Markab">Markab_1</string>
+    <string name="menkar_1" translation_description="Name of the Star Menkar">Menkar_1</string>
+    <string name="arneb_1" translation_description="Name of the Star Arneb">Arneb_1</string>
+    <string name="unukalhai_1" translation_description="Name of the Star Unukalhai">Unukalhai_1</string>
+    <string name="algenib_1" translation_description="Name of the Star Algenib">Algenib_1</string>
+    <string name="vindemiatrix_1" translation_description="Name of the Star Vindemiatrix">Vindemiatrix_1</string>
+    <string name="alcyone_1" translation_description="Name of the Star Alcyone">Alcyone_1</string>
+    <string name="dog_star_1" translation_description="Name of the Dog Star (Sirius)">Dog Star_1</string>
+    <string name="north_star_1" translation_description="Name of the North Star">North Star_1</string>
+    <string name="pole_star_1" translation_description="Name of the (North) Pole Star">Pole Star_1</string>
+    <string name="alpha_centauri_1" translation_description="Name of the star Alpha Centauri">Alpha Centauri_1</string>
+    <string name="rigil_kent_1" translation_description="Name of the star Rigil Kent">Rigil Kent_1</string>
+
+    <string name="m1_1" translation_description="Name of the Messier object M1">M1_1</string>
+    <string name="m2_1" translation_description="Name of the Messier object M2">M2_1</string>
+    <string name="m3_1" translation_description="Name of the Messier object M3">M3_1</string>
+    <string name="m4_1" translation_description="Name of the Messier object M4">M4_1</string>
+    <string name="m5_1" translation_description="Name of the Messier object M5">M5_1</string>
+    <string name="m6_1" translation_description="Name of the Messier object M6">M6_1</string>
+    <string name="m7_1" translation_description="Name of the Messier object M7">M7_1</string>
+    <string name="m8_1" translation_description="Name of the Messier object M8">M8_1</string>
+    <string name="m9_1" translation_description="Name of the Messier object M9">M9_1</string>
+    <string name="m10_1" translation_description="Name of the Messier object M10">M10_1</string>
+    <string name="m11_1" translation_description="Name of the Messier object M11">M11_1</string>
+    <string name="m12_1" translation_description="Name of the Messier object M12">M12_1</string>
+    <string name="m13_1" translation_description="Name of the Messier object M13">M13_1</string>
+    <string name="m14_1" translation_description="Name of the Messier object M14">M14_1</string>
+    <string name="m15_1" translation_description="Name of the Messier object M15">M15_1</string>
+    <string name="m16_1" translation_description="Name of the Messier object M16">M16_1</string>
+    <string name="m17_1" translation_description="Name of the Messier object M17">M17_1</string>
+    <string name="m18_1" translation_description="Name of the Messier object M18">M18_1</string>
+    <string name="m19_1" translation_description="Name of the Messier object M19">M19_1</string>
+    <string name="m20_1" translation_description="Name of the Messier object M20">M20_1</string>
+    <string name="m21_1" translation_description="Name of the Messier object M21">M21_1</string>
+    <string name="m22_1" translation_description="Name of the Messier object M22">M22_1</string>
+    <string name="m23_1" translation_description="Name of the Messier object M23">M23_1</string>
+    <string name="m24_1" translation_description="Name of the Messier object M24">M24_1</string>
+    <string name="m25_1" translation_description="Name of the Messier object M25">M25_1</string>
+    <string name="m26_1" translation_description="Name of the Messier object M26">M26_1</string>
+    <string name="m27_1" translation_description="Name of the Messier object M27">M27_1</string>
+    <string name="m28_1" translation_description="Name of the Messier object M28">M28_1</string>
+    <string name="m29_1" translation_description="Name of the Messier object M29">M29_1</string>
+    <string name="m30_1" translation_description="Name of the Messier object M30">M30_1</string>
+    <string name="m31_1" translation_description="Name of the Messier object M31">M31_1</string>
+    <string name="m32_1" translation_description="Name of the Messier object M32">M32_1</string>
+    <string name="m33_1" translation_description="Name of the Messier object M33">M33_1</string>
+    <string name="m34_1" translation_description="Name of the Messier object M34">M34_1</string>
+    <string name="m35_1" translation_description="Name of the Messier object M35">M35_1</string>
+    <string name="m36_1" translation_description="Name of the Messier object M36">M36_1</string>
+    <string name="m37_1" translation_description="Name of the Messier object M37">M37_1</string>
+    <string name="m38_1" translation_description="Name of the Messier object M38">M38_1</string>
+    <string name="m39_1" translation_description="Name of the Messier object M39">M39_1</string>
+    <string name="m40_1" translation_description="Name of the Messier object M40">M40_1</string>
+    <string name="m41_1" translation_description="Name of the Messier object M41">M41_1</string>
+    <string name="m42_1" translation_description="Name of the Messier object M42">M42_1</string>
+    <string name="m43_1" translation_description="Name of the Messier object M43">M43_1</string>
+    <string name="m44_1" translation_description="Name of the Messier object M44">M44_1</string>
+    <string name="m45_1" translation_description="Name of the Messier object M45">M45_1</string>
+    <string name="m46_1" translation_description="Name of the Messier object M46">M46_1</string>
+    <string name="m47_1" translation_description="Name of the Messier object M47">M47_1</string>
+    <string name="m48_1" translation_description="Name of the Messier object M48">M48_1</string>
+    <string name="m49_1" translation_description="Name of the Messier object M49">M49_1</string>
+    <string name="m50_1" translation_description="Name of the Messier object M50">M50_1</string>
+    <string name="m51_1" translation_description="Name of the Messier object M51">M51_1</string>
+    <string name="m52_1" translation_description="Name of the Messier object M52">M52_1</string>
+    <string name="m53_1" translation_description="Name of the Messier object M53">M53_1</string>
+    <string name="m54_1" translation_description="Name of the Messier object M54">M54_1</string>
+    <string name="m55_1" translation_description="Name of the Messier object M55">M55_1</string>
+    <string name="m56_1" translation_description="Name of the Messier object M56">M56_1</string>
+    <string name="m57_1" translation_description="Name of the Messier object M57">M57_1</string>
+    <string name="m58_1" translation_description="Name of the Messier object M58">M58_1</string>
+    <string name="m59_1" translation_description="Name of the Messier object M59">M59_1</string>
+    <string name="m60_1" translation_description="Name of the Messier object M60">M60_1</string>
+    <string name="m61_1" translation_description="Name of the Messier object M61">M61_1</string>
+    <string name="m62_1" translation_description="Name of the Messier object M62">M62_1</string>
+    <string name="m63_1" translation_description="Name of the Messier object M63">M63_1</string>
+    <string name="m64_1" translation_description="Name of the Messier object M64">M64_1</string>
+    <string name="m65_1" translation_description="Name of the Messier object M65">M65_1</string>
+    <string name="m66_1" translation_description="Name of the Messier object M66">M66_1</string>
+    <string name="m67_1" translation_description="Name of the Messier object M67">M67_1</string>
+    <string name="m68_1" translation_description="Name of the Messier object M68">M68_1</string>
+    <string name="m69_1" translation_description="Name of the Messier object M69">M69_1</string>
+    <string name="m70_1" translation_description="Name of the Messier object M70">M70_1</string>
+    <string name="m71_1" translation_description="Name of the Messier object M71">M71_1</string>
+    <string name="m72_1" translation_description="Name of the Messier object M72">M72_1</string>
+    <string name="m73_1" translation_description="Name of the Messier object M73">M73_1</string>
+    <string name="m74_1" translation_description="Name of the Messier object M74">M74_1</string>
+    <string name="m75_1" translation_description="Name of the Messier object M75">M75_1</string>
+    <string name="m76_1" translation_description="Name of the Messier object M76">M76_1</string>
+    <string name="m77_1" translation_description="Name of the Messier object M77">M77_1</string>
+    <string name="m78_1" translation_description="Name of the Messier object M78">M78_1</string>
+    <string name="m79_1" translation_description="Name of the Messier object M79">M79_1</string>
+    <string name="m80_1" translation_description="Name of the Messier object M80">M80_1</string>
+    <string name="m81_1" translation_description="Name of the Messier object M81">M81_1</string>
+    <string name="m82_1" translation_description="Name of the Messier object M82">M82_1</string>
+    <string name="m83_1" translation_description="Name of the Messier object M83">M83_1</string>
+    <string name="m84_1" translation_description="Name of the Messier object M84">M84_1</string>
+    <string name="m85_1" translation_description="Name of the Messier object M85">M85_1</string>
+    <string name="m86_1" translation_description="Name of the Messier object M86">M86_1</string>
+    <string name="m87_1" translation_description="Name of the Messier object M87">M87_1</string>
+    <string name="m88_1" translation_description="Name of the Messier object M88">M88_1</string>
+    <string name="m89_1" translation_description="Name of the Messier object M89">M89_1</string>
+    <string name="m90_1" translation_description="Name of the Messier object M90">M90_1</string>
+    <string name="m91_1" translation_description="Name of the Messier object M91">M91_1</string>
+    <string name="m92_1" translation_description="Name of the Messier object M92">M92_1</string>
+    <string name="m93_1" translation_description="Name of the Messier object M93">M93_1</string>
+    <string name="m94_1" translation_description="Name of the Messier object M94">M94_1</string>
+    <string name="m95_1" translation_description="Name of the Messier object M95">M95_1</string>
+    <string name="m96_1" translation_description="Name of the Messier object M96">M96_1</string>
+    <string name="m97_1" translation_description="Name of the Messier object M97">M97_1</string>
+    <string name="m98_1" translation_description="Name of the Messier object M98">M98_1</string>
+    <string name="m99_1" translation_description="Name of the Messier object M99">M99_1</string>
+    <string name="m100_1" translation_description="Name of the Messier object M100">M100_1</string>
+    <string name="m101_1" translation_description="Name of the Messier object M101">M101_1</string>
+    <string name="m102_1" translation_description="Name of the Messier object M102">M102_1</string>
+    <string name="m103_1" translation_description="Name of the Messier object M103">M103_1</string>
+    <string name="m104_1" translation_description="Name of the Messier object M104">M104_1</string>
+    <string name="m105_1" translation_description="Name of the Messier object M105">M105_1</string>
+    <string name="m106_1" translation_description="Name of the Messier object M106">M106_1</string>
+    <string name="m107_1" translation_description="Name of the Messier object M107">M107_1</string>
+    <string name="m108_1" translation_description="Name of the Messier object M108">M108_1</string>
+    <string name="m109_1" translation_description="Name of the Messier object M109">M109_1</string>
+    <string name="m110_1" translation_description="Name of the Messier object M110">M110_1</string>
+    <string name="ngc6543_1" translation_description="Name of the Messier object NGC6543">NGC6543_1</string>
+    <string name="ngc5139_1" translation_description="Name of the Messier object NGC5139">NGC5139_1</string>
+    <string name="butterfly_cluster_1" translation_description="Name of the Messier object Butterfly Cluster">Butterfly Cluster_1</string>
+    <string name="scorpions_tail_1" translation_description="Name of the Messier object Scorpion\'s Tail">Scorpion\'s Tail_1</string>
+    <string name="winnecke_4_1" translation_description="Name of the Messier object Winnecke 4">Winnecke 4_1</string>
+    <string name="beehive_cluster_1" translation_description="Name of the Messier object Beehive Cluster">Beehive Cluster_1</string>
+    <string name="praesepe_1" translation_description="Name of the Messier object Praesepe">Praesepe_1</string>
+    <string name="seven_sisters_1" translation_description="Name of the Messier object Seven Sisters">Seven Sisters_1</string>
+    <string name="space_station_1" translation_description="Name of the Internation Space Station">International Space Station_1</string>
+    <string name="space_shuttle_1" translation_description="Name of the Space Shuttle">Space Shuttle_1</string>
+
+
 </resources>

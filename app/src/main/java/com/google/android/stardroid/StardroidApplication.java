@@ -35,6 +35,10 @@ import com.google.android.stardroid.layers.GridLayer;
 import com.google.android.stardroid.layers.HorizonLayer;
 import com.google.android.stardroid.layers.LayerManager;
 import com.google.android.stardroid.layers.MeteorShowerLayer;
+import com.google.android.stardroid.layers.ModConstellationsLayer;
+import com.google.android.stardroid.layers.ModMessierLayer;
+import com.google.android.stardroid.layers.ModPlanetsLayer;
+import com.google.android.stardroid.layers.ModStarsLayer;
 import com.google.android.stardroid.layers.NewConstellationsLayer;
 import com.google.android.stardroid.layers.NewMessierLayer;
 import com.google.android.stardroid.layers.NewStarsLayer;
@@ -58,6 +62,8 @@ import java.util.concurrent.ScheduledThreadPoolExecutor;
  * @author John Taylor
  */
 public class StardroidApplication extends Application {
+
+  public static boolean loadModified = false;
   private static final String TAG = MiscUtil.getTag(StardroidApplication.class);
   private static final String PREVIOUS_APP_VERSION_PREF = "previous_app_version";
   private static final String NONE = "Clean install";
@@ -70,6 +76,9 @@ public class StardroidApplication extends Application {
   private static LayerManager layerManager;
   private static ExecutorService backgroundExecutor;
 
+
+  private static Context context;
+
   // We need to maintain references to this object to keep it from
   // getting gc'd.
   private final PreferenceChangeAnalyticsTracker preferenceChangeAnalyticsTracker =
@@ -80,6 +89,7 @@ public class StardroidApplication extends Application {
   public void onCreate() {
     Log.d(TAG, "StardroidApplication: onCreate");
     super.onCreate();
+    Log.d("debug","oncreate ran");
 
     Log.i(TAG, "OS Version: " + android.os.Build.VERSION.RELEASE
             + "(" + android.os.Build.VERSION.SDK_INT + ")");
@@ -101,6 +111,10 @@ public class StardroidApplication extends Application {
     performFeatureCheck();
 
     Log.d(TAG, "StardroidApplication: -onCreate");
+  }
+
+  public static Context getAppContext() {
+    return StardroidApplication.context;
   }
 
   private void setUpAnalytics(String versionName, SharedPreferences preferences) {
@@ -181,11 +195,18 @@ public class StardroidApplication extends Application {
                                                           SharedPreferences preferences,
                                                           Resources resources,
                                                           Context context) {
+    StardroidApplication.context = context;
     if (layerManager == null) {
       Log.i(TAG, "Initializing LayerManager");
       layerManager = new LayerManager(preferences, getModel());
 
       layerManager.addLayer(new NewStarsLayer(assetManager, resources));
+
+      layerManager.addLayer(new ModStarsLayer(assetManager, resources));
+      layerManager.addLayer(new ModMessierLayer(assetManager, resources));
+      layerManager.addLayer(new ModConstellationsLayer(assetManager, resources));
+      layerManager.addLayer(new ModPlanetsLayer(getModel(), resources, preferences));
+
       layerManager.addLayer(new NewMessierLayer(assetManager, resources));
       layerManager.addLayer(new NewConstellationsLayer(assetManager, resources));
       layerManager.addLayer(new PlanetsLayer(getModel(), resources, preferences));
@@ -194,8 +215,9 @@ public class StardroidApplication extends Application {
       layerManager.addLayer(new HorizonLayer(getModel(), resources));
       layerManager.addLayer(new EclipticLayer(resources));
       layerManager.addLayer(new SkyGradientLayer(getModel(), resources));
-      // layerManager.addLayer(new IssLayer(resources, getModel()));
+      //layerManager.addLayer(new IssLayer(resources, getModel()));
 
+      Log.d("seq","init layer now");
       layerManager.initialize();
     } else {
       Log.i(TAG, "LayerManager already initialized.");

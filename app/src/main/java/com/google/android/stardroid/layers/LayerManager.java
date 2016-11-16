@@ -14,15 +14,15 @@
 
 package com.google.android.stardroid.layers;
 
+import android.content.SharedPreferences;
+import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
+import android.util.Log;
+
 import com.google.android.stardroid.control.AstronomerModel;
 import com.google.android.stardroid.renderer.RendererController;
 import com.google.android.stardroid.search.SearchResult;
 import com.google.android.stardroid.search.SearchTermsProvider.SearchTerm;
 import com.google.android.stardroid.util.MiscUtil;
-
-import android.content.SharedPreferences;
-import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
-import android.util.Log;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -49,6 +49,7 @@ public class LayerManager implements OnSharedPreferenceChangeListener {
 
   public void initialize() {
     for (Layer layer : layers) {
+      Log.d("seq","layers to init :"+ layer.getLayerName());
       layer.initialize();
     }
   }
@@ -68,6 +69,7 @@ public class LayerManager implements OnSharedPreferenceChangeListener {
       if (layer.getPreferenceId().equals(key)) {
         boolean visible = prefs.getBoolean(key, true);
         layer.setVisible(visible);
+
       }
     }
   }

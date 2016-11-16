@@ -14,14 +14,6 @@
 
 package com.google.android.stardroid.activities;
 
-import com.google.android.stardroid.R;
-import com.google.android.stardroid.activities.util.ActivityLightLevelChanger;
-import com.google.android.stardroid.activities.util.ActivityLightLevelManager;
-import com.google.android.stardroid.gallery.GalleryFactory;
-import com.google.android.stardroid.gallery.GalleryImage;
-import com.google.android.stardroid.util.Analytics;
-import com.google.android.stardroid.util.MiscUtil;
-
 import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Intent;
@@ -35,6 +27,14 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.google.android.stardroid.R;
+import com.google.android.stardroid.activities.util.ActivityLightLevelChanger;
+import com.google.android.stardroid.activities.util.ActivityLightLevelManager;
+import com.google.android.stardroid.gallery.GalleryFactory;
+import com.google.android.stardroid.gallery.GalleryImage;
+import com.google.android.stardroid.util.Analytics;
+import com.google.android.stardroid.util.MiscUtil;
 
 import java.util.List;
 
@@ -112,9 +112,11 @@ public class ImageDisplayActivity extends Activity {
     // fail.  This is rather hacky.
     SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
     Editor editor = sharedPreferences.edit();
+    //TODO:names only searchable when toggled
     String[] keys = { "source_provider.0",  // Stars
                       "source_provider.2",  // Messier
-                      "source_provider.3" };  // Planets
+                      "source_provider.3",  // Planets
+                      "source_provider.7"}; // Names
     for (String key : keys) {
       if (!sharedPreferences.getBoolean(key , false)) {
         editor.putBoolean(key, true);

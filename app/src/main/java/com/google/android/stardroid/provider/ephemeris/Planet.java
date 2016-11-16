@@ -17,6 +17,7 @@ package com.google.android.stardroid.provider.ephemeris;
 import android.util.Log;
 
 import com.google.android.stardroid.R;
+import com.google.android.stardroid.StardroidApplication;
 import com.google.android.stardroid.base.TimeConstants;
 import com.google.android.stardroid.base.VisibleForTesting;
 import com.google.android.stardroid.units.GeocentricCoordinates;
@@ -32,19 +33,21 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
+
 public enum Planet {
   // The order here is the order in which they are drawn.  To ensure that during
   // conjunctions they display "naturally" order them in reverse distance from Earth.
-  Pluto(R.drawable.pluto, R.string.pluto, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
-  Neptune(R.drawable.neptune, R.string.neptune, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
-  Uranus(R.drawable.uranus, R.string.uranus, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
-  Jupiter(R.drawable.jupiter, R.string.jupiter, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
-  Saturn(R.drawable.saturn, R.string.saturn, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
-  Mars(R.drawable.mars, R.string.mars, 1L * TimeConstants.MILLISECONDS_PER_DAY),
-  Sun(R.drawable.sun, R.string.sun, 1L * TimeConstants.MILLISECONDS_PER_DAY),
-  Mercury(R.drawable.mercury, R.string.mercury, 1L * TimeConstants.MILLISECONDS_PER_DAY),
-  Venus(R.drawable.venus, R.string.venus, 1L * TimeConstants.MILLISECONDS_PER_DAY),
-  Moon(R.drawable.moon4, R.string.moon, 1L * TimeConstants.MILLISECONDS_PER_HOUR);
+  Pluto(R.drawable.pluto, R.string.pluto_1,R.string.pluto, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
+  Neptune(R.drawable.neptune, R.string.neptune_1,R.string.neptune, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
+  Uranus(R.drawable.uranus, R.string.uranus_1,R.string.uranus, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
+  Jupiter(R.drawable.jupiter,  R.string.jupiter_1,R.string.jupiter, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
+  Saturn(R.drawable.saturn,  R.string.saturn_1,R.string.saturn, 1L * TimeConstants.MILLISECONDS_PER_WEEK),
+  Mars(R.drawable.mars,  R.string.mars_1,R.string.mars, 1L * TimeConstants.MILLISECONDS_PER_DAY),
+  Sun(R.drawable.sun,  R.string.sun_1,R.string.sun, 1L * TimeConstants.MILLISECONDS_PER_DAY),
+  Mercury(R.drawable.mercury,  R.string.mercury_1,R.string.mercury, 1L * TimeConstants.MILLISECONDS_PER_DAY),
+  Venus(R.drawable.venus,  R.string.venus_1,R.string.venus, 1L * TimeConstants.MILLISECONDS_PER_DAY),
+  Moon(R.drawable.moon4,  R.string.moon_1,R.string.moon, 1L * TimeConstants.MILLISECONDS_PER_HOUR);
+
 
   private static final String TAG = MiscUtil.getTag(Planet.class);
 
@@ -55,11 +58,14 @@ public enum Planet {
   private int nameResourceId;
 
   private final long updateFreqMs;
+  
+  private int modifiedResourceId;
 
-  Planet(int imageResourceId, int nameResourceId, long updateFreqMs) {
+  Planet(int imageResourceId, int modifiedResourceId, int nameResourceId, long updateFreqMs) {
     this.imageResourceId = imageResourceId;
     this.nameResourceId = nameResourceId;
     this.updateFreqMs = updateFreqMs;
+    this.modifiedResourceId = modifiedResourceId;
     // Add Color, magnitude, etc.
   }
 
@@ -72,8 +78,10 @@ public enum Planet {
    * planet.
    */
   public int getNameResourceId() {
-    return nameResourceId;
+
+    return StardroidApplication.loadModified?modifiedResourceId:nameResourceId;
   }
+
 
   /** Returns the resource id for the planet's image. */
   public int getImageResourceId(Date time) {

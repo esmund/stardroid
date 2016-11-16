@@ -47,4 +47,57 @@
     <string name="triangulum_australe" translation_description="Name of the Triangulum Australe constellation">Triangulum Australe</string>
     <string name="volans" translation_description="Name of the Volans constellation">Volans</string>
     <string name="vulpecula" translation_description="Name of the Vulpecula constellation">Vulpecula</string>
+
+    <!--Additional resources for modified binary-->
+    <string name="antlia_1" translation_description="Name of the Antlia constellation">Antlia_1</string>
+    <string name="apus_1" translation_description="Name of the Apus constellation">Apus_1</string>
+    <string name="ara_1" translation_description="Name of the Ara constellation">Ara_1</string>
+    <string name="caelum_1" translation_description="Name of the Caelum constellation">Caelum_1</string>
+    <string name="camelopardalis_1" translation_description="Name of the Camelopardalis constellation">Camelopardalis_1</string>
+    <string name="canes_venatici_1" translation_description="Name of the Canes Venatici constellation">Canes Venatici_1</string>
+    <string name="canis_minor_1" translation_description="Name of the Canis Minor constellation">Canis Minor_1</string>
+    <string name="cepheus_1" translation_description="Name of the Cepheus constellation">Cepheus_1</string>
+    <string name="chamaeleon_1" translation_description="Name of the Chamaeleon constellation">Chamaeleon_1</string>
+    <string name="circinus_1" translation_description="Name of the Circinus constellation">Circinus_1</string>
+    <string name="columba_1" translation_description="Name of the Columba constellation">Columba_1</string>
+    <string name="coma_berenices_1" translation_description="Name of the Coma Berenices constellation">Coma Berenices_1</string>
+    <string name="corona_australis_1" translation_description="Name of the Corona Australis constellation">Corona Australis_1</string>
+    <string name="corona_borealis_1" translation_description="Name of the Corona Borealis constellation">Corona Borealis_1</string>
+    <string name="corvus_1" translation_description="Name of the Corvus constellation">Corvus_1</string>
+    <string name="crater_1" translation_description="Name of the Crater constellation">Crater_1</string>
+    <string name="delphinus_1" translation_description="Name of the Delphinus constellation">Delphinus_1</string>
+    <string name="dorado_1" translation_description="Name of the Dorado constellation">Dorado_1</string>
+    <string name="equuleus_1" translation_description="Name of the Equuleus constellation">Equuleus_1</string>
+    <string name="fornax_1" translation_description="Name of the Fornax constellation">Fornax_1</string>
+    <string name="horologium_1" translation_description="Name of the Horologium constellation">Horologium_1</string>
+    <string name="hydra_1" translation_description="Name of the Hydra constellation">Hydra_1</string>
+    <string name="indus_1" translation_description="Name of the Indus constellation">Indus_1</string>
+    <string name="lacerta_1" translation_description="Name of the Lacerta constellation">Lacerta_1</string>
+    <string name="leo_minor_1" translation_description="Name of the Leo Minor constellation">Leo Minor_1</string>
+    <string name="lepus_1" translation_description="Name of the Lepus constellation">Lepus_1</string>
+    <string name="lynx_1" translation_description="Name of the Lynx constellation">Lynx_1</string>
+    <string name="mensa_1" translation_description="Name of the Mensa constellation">Mensa_1</string>
+    <string name="microscopium_1" translation_description="Name of the Microscopium constellation">Microscopium_1</string>
+    <string name="monoceros_1" translation_description="Name of the Monoceros constellation">Monoceros_1</string>
+    <string name="musca_1" translation_description="Name of the Musca constellation">Musca_1</string>
+    <string name="norma_1" translation_description="Name of the Norma constellation">Norma_1</string>
+    <string name="octans_1" translation_description="Name of the Octans constellation">Octans_1</string>
+    <string name="pictor_1" translation_description="Name of the Pictor constellation">Pictor_1</string>
+    <string name="pyxis_1" translation_description="Name of the Pyxis constellation">Pyxis_1</string>
+    <string name="reticulum_1" translation_description="Name of the Reticulum constellation">Reticulum_1</string>
+    <string name="sagitta_1" translation_description="Name of the Sagitta constellation">Sagitta_1</string>
+    <string name="sculptor_1" translation_description="Name of the Sculptor constellation">Sculptor_1</string>
+    <string name="scutum_1" translation_description="Name of the Scutum constellation">Scutum_1</string>
+    <string name="serpens_caput_1" translation_description="Name of the Serpens Caput constellation">Serpens Caput_1</string>
+    <string name="serpens_cauda_1" translation_description="Name of the Serpens Cauda constellation">Serpens Cauda_1</string>
+    <string name="sextans_1" translation_description="Name of the Sextans constellation">Sextans_1</string>
+    <string name="telescopium_1" translation_description="Name of the Telescopium constellation">Telescopium_1</string>
+    <string name="triangulum_1" translation_description="Name of the Triangulum constellation">Triangulum_1</string>
+    <string name="triangulum_australe_1" translation_description="Name of the Triangulum Australe constellation">Triangulum Australe_1</string>
+    <string name="volans_1" translation_description="Name of the Volans constellation">Volans_1</string>
+    <string name="vulpecula_1" translation_description="Name of the Vulpecula constellation">Vulpecula_1</string>
+
+
+
+
 </resources>

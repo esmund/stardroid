@@ -72,7 +72,6 @@ public abstract class AbstractFileBasedLayer extends AbstractSourceLayer {
   protected void initializeAstroSources(ArrayList<AstronomicalSource> sources) {
     sources.addAll(fileSources);
   }
-
   private void readSourceFile(String sourceFilename) {
     StopWatch watch = new StopWatchImpl().start();
 
@@ -87,7 +86,7 @@ public abstract class AbstractFileBasedLayer extends AbstractSourceLayer {
         fileSources.add(new ProtobufAstronomicalSource(proto, getResources()));
       }
       Log.d(TAG, "Found: " + fileSources.size() + " sources");
-      String s = String.format("Finished Loading: %s > %s | Found %s sourcs.\n",
+      String s = String.format("Finished Loading: %s > %s | Found %s sources.\n",
           sourceFilename, watch.end(), fileSources.size());
        Blog.d(this, s);
 

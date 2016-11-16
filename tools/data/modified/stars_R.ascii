@@ -17,10 +17,10 @@ source {
       declination: -16.71
     }
     color: 13618383
-    string_index: 2131165526
+    REMOVE_string_index: "R.string.sirius_1"
   }
-  name_ids: 2131165526
-  name_ids: 2131165251
+  REMOVE_name_ids: "R.string.sirius_1"
+  REMOVE_name_ids: "R.string.dog_star_1"
 }
 source {
   search_location {
@@ -41,9 +41,9 @@ source {
       declination: -52.7
     }
     color: 13618383
-    string_index: 2131165225
+    REMOVE_string_index: "R.string.canopus_1"
   }
-  name_ids: 2131165225
+  REMOVE_name_ids: "R.string.canopus_1"
 }
 source {
   search_location {
@@ -64,9 +64,9 @@ source {
       declination: 19.19
     }
     color: 13618383
-    string_index: 2131165213
+    REMOVE_string_index: "R.string.arcturus_1"
   }
-  name_ids: 2131165213
+  REMOVE_name_ids: "R.string.arcturus_1"
 }
 source {
   search_location {
@@ -87,12 +87,12 @@ source {
       declination: -60.84
     }
     color: 13618383
-    string_index: 2131165883
+    REMOVE_string_index: "R.string.rigil_kentaurus_a"
   }
-  name_ids: 2131165883
-  name_ids: 2131165493
-  name_ids: 2131165592
-  name_ids: 2131165881
+  REMOVE_name_ids: "R.string.rigil_kentaurus_a"
+  REMOVE_name_ids: "R.string.rigel_kentaurus_a"
+  REMOVE_name_ids: "R.string.alpha_centauri"
+  REMOVE_name_ids: "R.string.rigil_kent_1"
 }
 source {
   search_location {
@@ -113,9 +113,9 @@ source {
       declination: 38.78
     }
     color: 13618383
-    string_index: 2131165567
+    REMOVE_string_index: "R.string.vega_1"
   }
-  name_ids: 2131165567
+  REMOVE_name_ids: "R.string.vega_1"
 }
 source {
   search_location {
@@ -136,9 +136,9 @@ source {
       declination: -8.2
     }
     color: 13618383
-    string_index: 2131165492
+    REMOVE_string_index: "R.string.rigel_1"
   }
-  name_ids: 2131165492
+  REMOVE_name_ids: "R.string.rigel_1"
 }
 source {
   search_location {
@@ -159,9 +159,9 @@ source {
       declination: 5.23
     }
     color: 13618383
-    string_index: 2131165484
+    REMOVE_string_index: "R.string.procyon_1"
   }
-  name_ids: 2131165484
+  REMOVE_name_ids: "R.string.procyon_1"
 }
 source {
   search_location {
@@ -182,9 +182,9 @@ source {
       declination: 7.41
     }
     color: 13618383
-    string_index: 2131165218
+    REMOVE_string_index: "R.string.betelgeuse_1"
   }
-  name_ids: 2131165218
+  REMOVE_name_ids: "R.string.betelgeuse_1"
 }
 source {
   search_location {
@@ -205,9 +205,9 @@ source {
       declination: -57.24
     }
     color: 13618383
-    string_index: 2131165184
+    REMOVE_string_index: "R.string.achernar_1"
   }
-  name_ids: 2131165184
+  REMOVE_name_ids: "R.string.achernar_1"
 }
 source {
   search_location {
@@ -228,9 +228,9 @@ source {
       declination: -60.37
     }
     color: 13618383
-    string_index: 2131165276
+    REMOVE_string_index: "R.string.hadar_1"
   }
-  name_ids: 2131165276
+  REMOVE_name_ids: "R.string.hadar_1"
 }
 source {
   search_location {
@@ -251,9 +251,9 @@ source {
       declination: 46.0
     }
     color: 13618383
-    string_index: 2131165226
+    REMOVE_string_index: "R.string.capella_1"
   }
-  name_ids: 2131165226
+  REMOVE_name_ids: "R.string.capella_1"
 }
 source {
   search_location {
@@ -274,9 +274,9 @@ source {
       declination: 8.87
     }
     color: 13618383
-    string_index: 2131165204
+    REMOVE_string_index: "R.string.altair_1"
   }
-  name_ids: 2131165204
+  REMOVE_name_ids: "R.string.altair_1"
 }
 source {
   search_location {
@@ -297,9 +297,9 @@ source {
       declination: -63.1
     }
     color: 13618383
-    string_index: 2131165185
+    REMOVE_string_index: "R.string.acrux_1"
   }
-  name_ids: 2131165185
+  REMOVE_name_ids: "R.string.acrux_1"
 }
 source {
   search_location {
@@ -320,9 +320,9 @@ source {
       declination: 16.51
     }
     color: 13618383
-    string_index: 2131165188
+    REMOVE_string_index: "R.string.aldebaran_1"
   }
-  name_ids: 2131165188
+  REMOVE_name_ids: "R.string.aldebaran_1"
 }
 source {
   search_location {
@@ -357,9 +357,9 @@ source {
       declination: -11.16
     }
     color: 13618383
-    string_index: 2131165534
+    REMOVE_string_index: "R.string.spica_1"
   }
-  name_ids: 2131165534
+  REMOVE_name_ids: "R.string.spica_1"
 }
 source {
   search_location {
@@ -380,9 +380,9 @@ source {
       declination: -26.43
     }
     color: 13618383
-    string_index: 2131165208
+    REMOVE_string_index: "R.string.antares_1"
   }
-  name_ids: 2131165208
+  REMOVE_name_ids: "R.string.antares_1"
 }
 source {
   search_location {
@@ -403,9 +403,9 @@ source {
       declination: 28.03
     }
     color: 13618383
-    string_index: 2131165480
+    REMOVE_string_index: "R.string.pollux_1"
   }
-  name_ids: 2131165480
+  REMOVE_name_ids: "R.string.pollux_1"
 }
 source {
   search_location {
@@ -426,9 +426,9 @@ source {
       declination: -29.62
     }
     color: 13618383
-    string_index: 2131165265
+    REMOVE_string_index: "R.string.fomalhaut_1"
   }
-  name_ids: 2131165265
+  REMOVE_name_ids: "R.string.fomalhaut_1"
 }
 source {
   search_location {
@@ -449,9 +449,9 @@ source {
       declination: 45.28
     }
     color: 13618383
-    string_index: 2131165245
+    REMOVE_string_index: "R.string.deneb_1"
   }
-  name_ids: 2131165245
+  REMOVE_name_ids: "R.string.deneb_1"
 }
 source {
   search_location {
@@ -500,9 +500,9 @@ source {
       declination: 11.97
     }
     color: 13618383
-    string_index: 2131165490
+    REMOVE_string_index: "R.string.regulus_1"
   }
-  name_ids: 2131165490
+  REMOVE_name_ids: "R.string.regulus_1"
 }
 source {
   search_location {
@@ -523,9 +523,9 @@ source {
       declination: -28.97
     }
     color: 13618383
-    string_index: 2131165186
+    REMOVE_string_index: "R.string.adhara_1"
   }
-  name_ids: 2131165186
+  REMOVE_name_ids: "R.string.adhara_1"
 }
 source {
   search_location {
@@ -560,9 +560,9 @@ source {
       declination: -37.1
     }
     color: 13618383
-    string_index: 2131165515
+    REMOVE_string_index: "R.string.shaula_1"
   }
-  name_ids: 2131165515
+  REMOVE_name_ids: "R.string.shaula_1"
 }
 source {
   search_location {
@@ -597,9 +597,9 @@ source {
       declination: 28.61
     }
     color: 13618383
-    string_index: 2131165199
+    REMOVE_string_index: "R.string.alnath_1"
   }
-  name_ids: 2131165199
+  REMOVE_name_ids: "R.string.alnath_1"
 }
 source {
   search_location {
@@ -634,9 +634,9 @@ source {
       declination: -1.2
     }
     color: 13618383
-    string_index: 2131165200
+    REMOVE_string_index: "R.string.alnilam_1"
   }
-  name_ids: 2131165200
+  REMOVE_name_ids: "R.string.alnilam_1"
 }
 source {
   search_location {
@@ -657,9 +657,9 @@ source {
       declination: -46.96
     }
     color: 13618383
-    string_index: 2131165198
+    REMOVE_string_index: "R.string.alnair_1"
   }
-  name_ids: 2131165198
+  REMOVE_name_ids: "R.string.alnair_1"
 }
 source {
   search_location {
@@ -708,9 +708,9 @@ source {
       declination: 55.96
     }
     color: 13618383
-    string_index: 2131165194
+    REMOVE_string_index: "R.string.alioth_1"
   }
-  name_ids: 2131165194
+  REMOVE_name_ids: "R.string.alioth_1"
 }
 source {
   search_location {
@@ -731,9 +731,9 @@ source {
       declination: 49.86
     }
     color: 13618383
-    string_index: 2131165444
+    REMOVE_string_index: "R.string.mirphak_1"
   }
-  name_ids: 2131165444
+  REMOVE_name_ids: "R.string.mirphak_1"
 }
 source {
   search_location {
@@ -754,9 +754,9 @@ source {
       declination: -34.38
     }
     color: 13618383
-    string_index: 2131165289
+    REMOVE_string_index: "R.string.kaus_australis_1"
   }
-  name_ids: 2131165289
+  REMOVE_name_ids: "R.string.kaus_australis_1"
 }
 source {
   search_location {
@@ -777,9 +777,9 @@ source {
       declination: 61.75
     }
     color: 13618383
-    string_index: 2131165253
+    REMOVE_string_index: "R.string.dubhe_1"
   }
-  name_ids: 2131165253
+  REMOVE_name_ids: "R.string.dubhe_1"
 }
 source {
   search_location {
@@ -814,9 +814,9 @@ source {
       declination: 49.31
     }
     color: 13618383
-    string_index: 2131165195
+    REMOVE_string_index: "R.string.alkaid_1"
   }
-  name_ids: 2131165195
+  REMOVE_name_ids: "R.string.alkaid_1"
 }
 source {
   search_location {
@@ -893,9 +893,9 @@ source {
       declination: 16.4
     }
     color: 13618383
-    string_index: 2131165193
+    REMOVE_string_index: "R.string.alhena_1"
   }
-  name_ids: 2131165193
+  REMOVE_name_ids: "R.string.alhena_1"
 }
 source {
   search_location {
@@ -930,9 +930,9 @@ source {
       declination: 31.89
     }
     color: 13618383
-    string_index: 2131165232
+    REMOVE_string_index: "R.string.castor_1"
   }
-  name_ids: 2131165232
+  REMOVE_name_ids: "R.string.castor_1"
 }
 source {
   search_location {
@@ -953,11 +953,11 @@ source {
       declination: 89.26
     }
     color: 13618383
-    string_index: 2131165478
+    REMOVE_string_index: "R.string.polaris"
   }
-  name_ids: 2131165478
-  name_ids: 2131165456
-  name_ids: 2131165479
+  REMOVE_name_ids: "R.string.polaris"
+  REMOVE_name_ids: "R.string.north_star"
+  REMOVE_name_ids: "R.string.pole_star_1"
 }
 source {
   search_location {
@@ -992,9 +992,9 @@ source {
       declination: -8.66
     }
     color: 13618383
-    string_index: 2131165201
+    REMOVE_string_index: "R.string.alphard_1"
   }
-  name_ids: 2131165201
+  REMOVE_name_ids: "R.string.alphard_1"
 }
 source {
   search_location {
@@ -1015,9 +1015,9 @@ source {
       declination: 23.46
     }
     color: 13618383
-    string_index: 2131165277
+    REMOVE_string_index: "R.string.hamal_1"
   }
-  name_ids: 2131165277
+  REMOVE_name_ids: "R.string.hamal_1"
 }
 source {
   search_location {
@@ -1038,9 +1038,9 @@ source {
       declination: 19.84
     }
     color: 13618383
-    string_index: 2131165191
+    REMOVE_string_index: "R.string.algieba_1"
   }
-  name_ids: 2131165191
+  REMOVE_name_ids: "R.string.algieba_1"
 }
 source {
   search_location {
@@ -1075,9 +1075,9 @@ source {
       declination: -17.99
     }
     color: 13618383
-    string_index: 2131165249
+    REMOVE_string_index: "R.string.diphda_1"
   }
-  name_ids: 2131165249
+  REMOVE_name_ids: "R.string.diphda_1"
 }
 source {
   search_location {
@@ -1098,9 +1098,9 @@ source {
       declination: -26.3
     }
     color: 13618383
-    string_index: 2131165458
+    REMOVE_string_index: "R.string.nunki_1"
   }
-  name_ids: 2131165458
+  REMOVE_name_ids: "R.string.nunki_1"
 }
 source {
   search_location {
@@ -1121,9 +1121,9 @@ source {
       declination: 35.62
     }
     color: 13618383
-    string_index: 2131165443
+    REMOVE_string_index: "R.string.mirach_1"
   }
-  name_ids: 2131165443
+  REMOVE_name_ids: "R.string.mirach_1"
 }
 source {
   search_location {
@@ -1158,9 +1158,9 @@ source {
       declination: 29.09
     }
     color: 13618383
-    string_index: 2131165203
+    REMOVE_string_index: "R.string.alpheratz_1"
   }
-  name_ids: 2131165203
+  REMOVE_name_ids: "R.string.alpheratz_1"
 }
 source {
   search_location {
@@ -1195,9 +1195,9 @@ source {
       declination: -9.67
     }
     color: 13618383
-    string_index: 2131165496
+    REMOVE_string_index: "R.string.saiph_1"
   }
-  name_ids: 2131165496
+  REMOVE_name_ids: "R.string.saiph_1"
 }
 source {
   search_location {
@@ -1218,9 +1218,9 @@ source {
       declination: 74.16
     }
     color: 13618383
-    string_index: 2131165291
+    REMOVE_string_index: "R.string.kochab_1"
   }
-  name_ids: 2131165291
+  REMOVE_name_ids: "R.string.kochab_1"
 }
 source {
   search_location {
@@ -1241,9 +1241,9 @@ source {
       declination: 12.56
     }
     color: 13618383
-    string_index: 2131165489
+    REMOVE_string_index: "R.string.rasalhague_1"
   }
-  name_ids: 2131165489
+  REMOVE_name_ids: "R.string.rasalhague_1"
 }
 source {
   search_location {
@@ -1264,9 +1264,9 @@ source {
       declination: 40.96
     }
     color: 13618383
-    string_index: 2131165192
+    REMOVE_string_index: "R.string.algol_1"
   }
-  name_ids: 2131165192
+  REMOVE_name_ids: "R.string.algol_1"
 }
 source {
   search_location {
@@ -1301,9 +1301,9 @@ source {
       declination: 14.57
     }
     color: 13618383
-    string_index: 2131165246
+    REMOVE_string_index: "R.string.denebola_1"
   }
-  name_ids: 2131165246
+  REMOVE_name_ids: "R.string.denebola_1"
 }
 source {
   search_location {
@@ -1380,9 +1380,9 @@ source {
       declination: 26.71
     }
     color: 13618383
-    string_index: 2131165202
+    REMOVE_string_index: "R.string.alphekka_1"
   }
-  name_ids: 2131165202
+  REMOVE_name_ids: "R.string.alphekka_1"
 }
 source {
   search_location {
@@ -1431,9 +1431,9 @@ source {
       declination: 51.49
     }
     color: 13618383
-    string_index: 2131165263
+    REMOVE_string_index: "R.string.etamin_1"
   }
-  name_ids: 2131165263
+  REMOVE_name_ids: "R.string.etamin_1"
 }
 source {
   search_location {
@@ -1454,9 +1454,9 @@ source {
       declination: 56.54
     }
     color: 13618383
-    string_index: 2131165516
+    REMOVE_string_index: "R.string.shedir_1"
   }
-  name_ids: 2131165516
+  REMOVE_name_ids: "R.string.shedir_1"
 }
 source {
   search_location {
@@ -1505,9 +1505,9 @@ source {
       declination: 59.15
     }
     color: 13618383
-    string_index: 2131165227
+    REMOVE_string_index: "R.string.caph_1"
   }
-  name_ids: 2131165227
+  REMOVE_name_ids: "R.string.caph_1"
 }
 source {
   search_location {
@@ -1598,9 +1598,9 @@ source {
       declination: 27.07
     }
     color: 13618383
-    string_index: 2131165286
+    REMOVE_string_index: "R.string.izar_1"
   }
-  name_ids: 2131165286
+  REMOVE_name_ids: "R.string.izar_1"
 }
 source {
   search_location {
@@ -1621,9 +1621,9 @@ source {
       declination: 56.38
     }
     color: 13618383
-    string_index: 2131165441
+    REMOVE_string_index: "R.string.merak_1"
   }
-  name_ids: 2131165441
+  REMOVE_name_ids: "R.string.merak_1"
 }
 source {
   search_location {
@@ -1644,9 +1644,9 @@ source {
       declination: 9.88
     }
     color: 13618383
-    string_index: 2131165261
+    REMOVE_string_index: "R.string.enif_1"
   }
-  name_ids: 2131165261
+  REMOVE_name_ids: "R.string.enif_1"
 }
 source {
   search_location {
@@ -1681,9 +1681,9 @@ source {
       declination: -42.31
     }
     color: 13618383
-    string_index: 2131165207
+    REMOVE_string_index: "R.string.ankaa_1"
   }
-  name_ids: 2131165207
+  REMOVE_name_ids: "R.string.ankaa_1"
 }
 source {
   search_location {
@@ -1704,9 +1704,9 @@ source {
       declination: 53.69
     }
     color: 13618383
-    string_index: 2131165469
+    REMOVE_string_index: "R.string.phad_1"
   }
-  name_ids: 2131165469
+  REMOVE_name_ids: "R.string.phad_1"
 }
 source {
   search_location {
@@ -1727,9 +1727,9 @@ source {
       declination: 62.59
     }
     color: 13618383
-    string_index: 2131165189
+    REMOVE_string_index: "R.string.alderamin_1"
   }
-  name_ids: 2131165189
+  REMOVE_name_ids: "R.string.alderamin_1"
 }
 source {
   search_location {
@@ -1750,9 +1750,9 @@ source {
       declination: 28.08
     }
     color: 13618383
-    string_index: 2131165498
+    REMOVE_string_index: "R.string.scheat_1"
   }
-  name_ids: 2131165498
+  REMOVE_name_ids: "R.string.scheat_1"
 }
 source {
   search_location {
@@ -1815,9 +1815,9 @@ source {
       declination: 15.21
     }
     color: 13618383
-    string_index: 2131165429
+    REMOVE_string_index: "R.string.markab_1"
   }
-  name_ids: 2131165429
+  REMOVE_name_ids: "R.string.markab_1"
 }
 source {
   search_location {
@@ -1852,9 +1852,9 @@ source {
       declination: 4.09
     }
     color: 13618383
-    string_index: 2131165431
+    REMOVE_string_index: "R.string.menkar_1"
   }
-  name_ids: 2131165431
+  REMOVE_name_ids: "R.string.menkar_1"
 }
 source {
   search_location {
@@ -1917,9 +1917,9 @@ source {
       declination: -17.82
     }
     color: 13618383
-    string_index: 2131165215
+    REMOVE_string_index: "R.string.arneb_1"
   }
-  name_ids: 2131165215
+  REMOVE_name_ids: "R.string.arneb_1"
 }
 source {
   search_location {
@@ -2010,9 +2010,9 @@ source {
       declination: 6.43
     }
     color: 13618383
-    string_index: 2131165558
+    REMOVE_string_index: "R.string.unukalhai_1"
   }
-  name_ids: 2131165558
+  REMOVE_name_ids: "R.string.unukalhai_1"
 }
 source {
   search_location {
@@ -2467,9 +2467,9 @@ source {
       declination: 15.18
     }
     color: 13618383
-    string_index: 2131165190
+    REMOVE_string_index: "R.string.algenib_1"
   }
-  name_ids: 2131165190
+  REMOVE_name_ids: "R.string.algenib_1"
 }
 source {
   search_location {
@@ -2546,9 +2546,9 @@ source {
       declination: 10.96
     }
     color: 13618383
-    string_index: 2131165570
+    REMOVE_string_index: "R.string.vindemiatrix_1"
   }
-  name_ids: 2131165570
+  REMOVE_name_ids: "R.string.vindemiatrix_1"
 }
 source {
   search_location {
@@ -2569,9 +2569,9 @@ source {
       declination: 24.11
     }
     color: 13618383
-    string_index: 2131165187
+    REMOVE_string_index: "R.string.alcyone_1"
   }
-  name_ids: 2131165187
+  REMOVE_name_ids: "R.string.alcyone_1"
 }
 source {
   search_location {

@@ -46,7 +46,7 @@ public class AsciiProtoRewriter {
       // Hackily extract the name from "R.string.thename"
       String name = s.substring(10, s.length()-1);
       Field f = R.string.class.getDeclaredField(name);
-      // System.out.println("replacing: " + s);
+        //System.out.println("replacing: " + s);
       return f.getInt(null);
     } catch (SecurityException e) {
       throw new MissingStringException(s);

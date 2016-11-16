@@ -34,39 +34,39 @@ import java.util.ArrayList;
  * @author John Taylor
  * @author Brent Bryan
  */
-public class PlanetsLayer extends AbstractSourceLayer {
-  private final SharedPreferences preferences;
-  private final AstronomerModel model;
+public class ModPlanetsLayer extends AbstractSourceLayer {
+    private final SharedPreferences preferences;
+    private final AstronomerModel model;
 
-  public PlanetsLayer(AstronomerModel model, Resources resources, SharedPreferences preferences) {
-    super(resources, true);
-    this.preferences = preferences;
-    this.model = model;
-  }
-
-  @Override
-  protected void initializeAstroSources(ArrayList<AstronomicalSource> sources) {
-    StardroidApplication.loadModified = false;
-    Log.d("modded","loadmodified is false? "+StardroidApplication.loadModified);
-    for (Planet planet : Planet.values()) {
-      sources.add(new PlanetSource(planet, getResources(), model, preferences));
+    public ModPlanetsLayer(AstronomerModel model, Resources resources, SharedPreferences preferences) {
+        super(resources, true);
+        this.preferences = preferences;
+        this.model = model;
     }
-  }
 
-  // TODO(brent): Remove this.
-  @Override
-  public String getPreferenceId() {
-    return "source_provider.3";
-  }
+    @Override
+    protected void initializeAstroSources(ArrayList<AstronomicalSource> sources) {
+        StardroidApplication.loadModified = true;
+        Log.d("modded","loadmodified is true? "+StardroidApplication.loadModified);
+        for (Planet planet : Planet.values()) {
+            sources.add(new PlanetSource(planet, getResources(), model, preferences));
+        }
+    }
 
-  @Override
-  public int getLayerDepthOrder() {
-    // TODO(brent): refactor these to a common location.
-    return 60;
-  }
+    // TODO(brent): Remove this.
+    @Override
+    public String getPreferenceId() {
+        return "source_provider.10";
+    }
 
-  @Override
-  protected int getLayerNameId() {
-    return R.string.show_planets_pref;  // TODO(johntaylor): rename the string id.
-  }
+    @Override
+    public int getLayerDepthOrder() {
+        // TODO(brent): refactor these to a common location.
+        return 60;
+    }
+
+    @Override
+    protected int getLayerNameId() {
+        return R.string.show_planets_pref;  // TODO(johntaylor): rename the string id.
+    }
 }

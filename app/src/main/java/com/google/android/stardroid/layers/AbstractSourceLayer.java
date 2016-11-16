@@ -14,6 +14,12 @@
 
 package com.google.android.stardroid.layers;
 
+import android.content.SharedPreferences;
+import android.content.res.Resources;
+import android.preference.PreferenceManager;
+import android.util.Log;
+
+import com.google.android.stardroid.StardroidApplication;
 import com.google.android.stardroid.renderer.RendererObjectManager.UpdateType;
 import com.google.android.stardroid.renderer.util.AbstractUpdateClosure;
 import com.google.android.stardroid.renderer.util.UpdateClosure;
@@ -27,9 +33,6 @@ import com.google.android.stardroid.source.Sources;
 import com.google.android.stardroid.source.TextSource;
 import com.google.android.stardroid.units.GeocentricCoordinates;
 import com.google.android.stardroid.util.MiscUtil;
-
-import android.content.res.Resources;
-import android.util.Log;
 
 import java.util.ArrayList;
 import java.util.EnumSet;
@@ -67,10 +70,26 @@ public abstract class AbstractSourceLayer extends AbstractLayer {
     astroSources.clear();
 
     initializeAstroSources(astroSources);
+    SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences((StardroidApplication.getAppContext()));
+    SharedPreferences.Editor editor = preferences.edit();
 
     for (AstronomicalSource astroSource : astroSources) {
       Sources sources = astroSource.initialize();
-
+//      if(this.getLayerName().equals("modStars") || this.getLayerName().equals("modMessier") || this.getLayerName().equals("modConstellations")){
+//          if(preferences.contains("currLayer") == false) {
+//            Log.d("strings", "toggling string values");
+//            editor.putInt("currLayer", 1);
+//            editor.commit();
+//          }
+//      }
+//      else {
+//        if(preferences.contains("currLayer") && getLayerName().equals("modStars") == false && getLayerName().equals("modMessier") == false && getLayerName().equals("modConstellations") == false){
+//          Log.d("strings","removing string values");
+//          editor.remove("currLayer");
+//          editor.commit();
+//        }
+//
+//      }
       textSources.addAll(sources.getLabels());
       imageSources.addAll(sources.getImages());
       pointSources.addAll(sources.getPoints());

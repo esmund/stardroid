@@ -17,10 +17,10 @@ source {
       declination: 22.01667
     }
     color: 4761665
-    string_index: 2131165316
+    REMOVE_string_index: "R.string.m1_1"
   }
-  name_ids: 2131165316
-  name_ids: 2131165239
+  REMOVE_name_ids: "R.string.m1_1"
+  REMOVE_name_ids: "R.string.crab_nebula_1"
 }
 source {
   search_location {
@@ -41,9 +41,9 @@ source {
       declination: -0.81667
     }
     color: 4761665
-    string_index: 2131165338
+    REMOVE_string_index: "R.string.m2_1"
   }
-  name_ids: 2131165338
+  REMOVE_name_ids: "R.string.m2_1"
 }
 source {
   search_location {
@@ -64,9 +64,9 @@ source {
       declination: 28.38333
     }
     color: 4761665
-    string_index: 2131165349
+    REMOVE_string_index: "R.string.m3_1"
   }
-  name_ids: 2131165349
+  REMOVE_name_ids: "R.string.m3_1"
 }
 source {
   search_location {
@@ -87,9 +87,9 @@ source {
       declination: -26.53333
     }
     color: 4761665
-    string_index: 2131165360
+    REMOVE_string_index: "R.string.m4_1"
   }
-  name_ids: 2131165360
+  REMOVE_name_ids: "R.string.m4_1"
 }
 source {
   search_location {
@@ -110,9 +110,9 @@ source {
       declination: 2.08333
     }
     color: 4761665
-    string_index: 2131165371
+    REMOVE_string_index: "R.string.m5_1"
   }
-  name_ids: 2131165371
+  REMOVE_name_ids: "R.string.m5_1"
 }
 source {
   search_location {
@@ -133,10 +133,10 @@ source {
       declination: -32.21667
     }
     color: 4761665
-    string_index: 2131165382
+    REMOVE_string_index: "R.string.m6_1"
   }
-  name_ids: 2131165382
-  name_ids: 2131165221
+  REMOVE_name_ids: "R.string.m6_1"
+  REMOVE_name_ids: "R.string.butterfly_cluster_1"
 }
 source {
   search_location {
@@ -157,10 +157,10 @@ source {
       declination: -34.81667
     }
     color: 4761665
-    string_index: 2131165393
+    REMOVE_string_index: "R.string.m7_1"
   }
-  name_ids: 2131165393
-  name_ids: 2131165500
+  REMOVE_name_ids: "R.string.m7_1"
+  REMOVE_name_ids: "R.string.scorpions_tail_1"
 }
 source {
   search_location {
@@ -181,9 +181,9 @@ source {
       declination: -24.38333
     }
     color: 4761665
-    string_index: 2131165404
+    REMOVE_string_index: "R.string.m8_1"
   }
-  name_ids: 2131165404
+  REMOVE_name_ids: "R.string.m8_1"
 }
 source {
   search_location {
@@ -204,9 +204,9 @@ source {
       declination: -18.51667
     }
     color: 4761665
-    string_index: 2131165415
+    REMOVE_string_index: "R.string.m9_1"
   }
-  name_ids: 2131165415
+  REMOVE_name_ids: "R.string.m9_1"
 }
 source {
   search_location {
@@ -227,9 +227,9 @@ source {
       declination: -4.1
     }
     color: 4761665
-    string_index: 2131165317
+    REMOVE_string_index: "R.string.m10_1"
   }
-  name_ids: 2131165317
+  REMOVE_name_ids: "R.string.m10_1"
 }
 source {
   search_location {
@@ -250,9 +250,9 @@ source {
       declination: -6.26667
     }
     color: 4761665
-    string_index: 2131165328
+    REMOVE_string_index: "R.string.m11_1"
   }
-  name_ids: 2131165328
+  REMOVE_name_ids: "R.string.m11_1"
 }
 source {
   search_location {
@@ -273,9 +273,9 @@ source {
       declination: -1.95
     }
     color: 4761665
-    string_index: 2131165330
+    REMOVE_string_index: "R.string.m12_1"
   }
-  name_ids: 2131165330
+  REMOVE_name_ids: "R.string.m12_1"
 }
 source {
   search_location {
@@ -296,9 +296,9 @@ source {
       declination: 36.46667
     }
     color: 4761665
-    string_index: 2131165331
+    REMOVE_string_index: "R.string.m13_1"
   }
-  name_ids: 2131165331
+  REMOVE_name_ids: "R.string.m13_1"
 }
 source {
   search_location {
@@ -319,9 +319,9 @@ source {
       declination: -3.25
     }
     color: 4761665
-    string_index: 2131165332
+    REMOVE_string_index: "R.string.m14_1"
   }
-  name_ids: 2131165332
+  REMOVE_name_ids: "R.string.m14_1"
 }
 source {
   search_location {
@@ -342,9 +342,9 @@ source {
       declination: 12.16667
     }
     color: 4761665
-    string_index: 2131165333
+    REMOVE_string_index: "R.string.m15_1"
   }
-  name_ids: 2131165333
+  REMOVE_name_ids: "R.string.m15_1"
 }
 source {
   search_location {
@@ -365,9 +365,9 @@ source {
       declination: -13.78333
     }
     color: 4761665
-    string_index: 2131165334
+    REMOVE_string_index: "R.string.m16_1"
   }
-  name_ids: 2131165334
+  REMOVE_name_ids: "R.string.m16_1"
 }
 source {
   search_location {
@@ -388,9 +388,9 @@ source {
       declination: -16.18333
     }
     color: 4761665
-    string_index: 2131165335
+    REMOVE_string_index: "R.string.m17_1"
   }
-  name_ids: 2131165335
+  REMOVE_name_ids: "R.string.m17_1"
 }
 source {
   search_location {
@@ -411,9 +411,9 @@ source {
       declination: -17.13333
     }
     color: 4761665
-    string_index: 2131165336
+    REMOVE_string_index: "R.string.m18_1"
   }
-  name_ids: 2131165336
+  REMOVE_name_ids: "R.string.m18_1"
 }
 source {
   search_location {
@@ -434,9 +434,9 @@ source {
       declination: -26.26667
     }
     color: 4761665
-    string_index: 2131165337
+    REMOVE_string_index: "R.string.m19_1"
   }
-  name_ids: 2131165337
+  REMOVE_name_ids: "R.string.m19_1"
 }
 source {
   search_location {
@@ -457,9 +457,9 @@ source {
       declination: -23.03333
     }
     color: 4761665
-    string_index: 2131165339
+    REMOVE_string_index: "R.string.m20_1"
   }
-  name_ids: 2131165339
+  REMOVE_name_ids: "R.string.m20_1"
 }
 source {
   search_location {
@@ -480,9 +480,9 @@ source {
       declination: -22.5
     }
     color: 4761665
-    string_index: 2131165340
+    REMOVE_string_index: "R.string.m21_1"
   }
-  name_ids: 2131165340
+  REMOVE_name_ids: "R.string.m21_1"
 }
 source {
   search_location {
@@ -503,9 +503,9 @@ source {
       declination: -23.9
     }
     color: 4761665
-    string_index: 2131165341
+    REMOVE_string_index: "R.string.m22_1"
   }
-  name_ids: 2131165341
+  REMOVE_name_ids: "R.string.m22_1"
 }
 source {
   search_location {
@@ -526,9 +526,9 @@ source {
       declination: -19.01667
     }
     color: 4761665
-    string_index: 2131165342
+    REMOVE_string_index: "R.string.m23_1"
   }
-  name_ids: 2131165342
+  REMOVE_name_ids: "R.string.m23_1"
 }
 source {
   search_location {
@@ -549,9 +549,9 @@ source {
       declination: -18.41667
     }
     color: 4761665
-    string_index: 2131165343
+    REMOVE_string_index: "R.string.m24_1"
   }
-  name_ids: 2131165343
+  REMOVE_name_ids: "R.string.m24_1"
 }
 source {
   search_location {
@@ -572,9 +572,9 @@ source {
       declination: -19.25
     }
     color: 4761665
-    string_index: 2131165344
+    REMOVE_string_index: "R.string.m25_1"
   }
-  name_ids: 2131165344
+  REMOVE_name_ids: "R.string.m25_1"
 }
 source {
   search_location {
@@ -595,9 +595,9 @@ source {
       declination: -9.4
     }
     color: 4761665
-    string_index: 2131165345
+    REMOVE_string_index: "R.string.m26_1"
   }
-  name_ids: 2131165345
+  REMOVE_name_ids: "R.string.m26_1"
 }
 source {
   search_location {
@@ -618,9 +618,9 @@ source {
       declination: 22.71667
     }
     color: 4761665
-    string_index: 2131165346
+    REMOVE_string_index: "R.string.m27_1"
   }
-  name_ids: 2131165346
+  REMOVE_name_ids: "R.string.m27_1"
 }
 source {
   search_location {
@@ -641,9 +641,9 @@ source {
       declination: -24.86667
     }
     color: 4761665
-    string_index: 2131165347
+    REMOVE_string_index: "R.string.m28_1"
   }
-  name_ids: 2131165347
+  REMOVE_name_ids: "R.string.m28_1"
 }
 source {
   search_location {
@@ -664,9 +664,9 @@ source {
       declination: 38.53333
     }
     color: 4761665
-    string_index: 2131165348
+    REMOVE_string_index: "R.string.m29_1"
   }
-  name_ids: 2131165348
+  REMOVE_name_ids: "R.string.m29_1"
 }
 source {
   search_location {
@@ -687,9 +687,9 @@ source {
       declination: -23.18333
     }
     color: 4761665
-    string_index: 2131165350
+    REMOVE_string_index: "R.string.m30_1"
   }
-  name_ids: 2131165350
+  REMOVE_name_ids: "R.string.m30_1"
 }
 source {
   search_location {
@@ -710,10 +710,10 @@ source {
       declination: 41.26667
     }
     color: 4761665
-    string_index: 2131165351
+    REMOVE_string_index: "R.string.m31_1"
   }
-  name_ids: 2131165351
-  name_ids: 2131165206
+  REMOVE_name_ids: "R.string.m31_1"
+  REMOVE_name_ids: "R.string.andromeda_galaxy_1"
 }
 source {
   search_location {
@@ -734,9 +734,9 @@ source {
       declination: 40.86667
     }
     color: 4761665
-    string_index: 2131165352
+    REMOVE_string_index: "R.string.m32_1"
   }
-  name_ids: 2131165352
+  REMOVE_name_ids: "R.string.m32_1"
 }
 source {
   search_location {
@@ -757,9 +757,9 @@ source {
       declination: 30.65
     }
     color: 4761665
-    string_index: 2131165353
+    REMOVE_string_index: "R.string.m33_1"
   }
-  name_ids: 2131165353
+  REMOVE_name_ids: "R.string.m33_1"
 }
 source {
   search_location {
@@ -780,9 +780,9 @@ source {
       declination: 42.78333
     }
     color: 4761665
-    string_index: 2131165354
+    REMOVE_string_index: "R.string.m34_1"
   }
-  name_ids: 2131165354
+  REMOVE_name_ids: "R.string.m34_1"
 }
 source {
   search_location {
@@ -803,9 +803,9 @@ source {
       declination: 24.33333
     }
     color: 4761665
-    string_index: 2131165355
+    REMOVE_string_index: "R.string.m35_1"
   }
-  name_ids: 2131165355
+  REMOVE_name_ids: "R.string.m35_1"
 }
 source {
   search_location {
@@ -826,9 +826,9 @@ source {
       declination: 34.13333
     }
     color: 4761665
-    string_index: 2131165356
+    REMOVE_string_index: "R.string.m36_1"
   }
-  name_ids: 2131165356
+  REMOVE_name_ids: "R.string.m36_1"
 }
 source {
   search_location {
@@ -849,9 +849,9 @@ source {
       declination: 32.55
     }
     color: 4761665
-    string_index: 2131165357
+    REMOVE_string_index: "R.string.m37_1"
   }
-  name_ids: 2131165357
+  REMOVE_name_ids: "R.string.m37_1"
 }
 source {
   search_location {
@@ -872,9 +872,9 @@ source {
       declination: 35.83333
     }
     color: 4761665
-    string_index: 2131165358
+    REMOVE_string_index: "R.string.m38_1"
   }
-  name_ids: 2131165358
+  REMOVE_name_ids: "R.string.m38_1"
 }
 source {
   search_location {
@@ -895,9 +895,9 @@ source {
       declination: 48.43333
     }
     color: 4761665
-    string_index: 2131165359
+    REMOVE_string_index: "R.string.m39_1"
   }
-  name_ids: 2131165359
+  REMOVE_name_ids: "R.string.m39_1"
 }
 source {
   search_location {
@@ -918,9 +918,9 @@ source {
       declination: 58.08333
     }
     color: 4761665
-    string_index: 2131165361
+    REMOVE_string_index: "R.string.m40_1"
   }
-  name_ids: 2131165361
+  REMOVE_name_ids: "R.string.m40_1"
 }
 source {
   search_location {
@@ -941,9 +941,9 @@ source {
       declination: -20.73333
     }
     color: 4761665
-    string_index: 2131165362
+    REMOVE_string_index: "R.string.m41_1"
   }
-  name_ids: 2131165362
+  REMOVE_name_ids: "R.string.m41_1"
 }
 source {
   search_location {
@@ -964,9 +964,9 @@ source {
       declination: -5.45
     }
     color: 4761665
-    string_index: 2131165363
+    REMOVE_string_index: "R.string.m42_1"
   }
-  name_ids: 2131165363
+  REMOVE_name_ids: "R.string.m42_1"
 }
 source {
   search_location {
@@ -987,9 +987,9 @@ source {
       declination: -5.26667
     }
     color: 4761665
-    string_index: 2131165364
+    REMOVE_string_index: "R.string.m43_1"
   }
-  name_ids: 2131165364
+  REMOVE_name_ids: "R.string.m43_1"
 }
 source {
   search_location {
@@ -1010,11 +1010,11 @@ source {
       declination: 19.98333
     }
     color: 4761665
-    string_index: 2131165365
+    REMOVE_string_index: "R.string.m44_1"
   }
-  name_ids: 2131165365
-  name_ids: 2131165217
-  name_ids: 2131165482
+  REMOVE_name_ids: "R.string.m44_1"
+  REMOVE_name_ids: "R.string.beehive_cluster_1"
+  REMOVE_name_ids: "R.string.praesepe_1"
 }
 source {
   search_location {
@@ -1035,11 +1035,11 @@ source {
       declination: 24.11667
     }
     color: 4761665
-    string_index: 2131165366
+    REMOVE_string_index: "R.string.m45_1"
   }
-  name_ids: 2131165366
-  name_ids: 2131165475
-  name_ids: 2131165514
+  REMOVE_name_ids: "R.string.m45_1"
+  REMOVE_name_ids: "R.string.pleiades_1"
+  REMOVE_name_ids: "R.string.seven_sisters_1"
 }
 source {
   search_location {
@@ -1060,9 +1060,9 @@ source {
       declination: -14.81667
     }
     color: 4761665
-    string_index: 2131165367
+    REMOVE_string_index: "R.string.m46_1"
   }
-  name_ids: 2131165367
+  REMOVE_name_ids: "R.string.m46_1"
 }
 source {
   search_location {
@@ -1083,9 +1083,9 @@ source {
       declination: -14.5
     }
     color: 4761665
-    string_index: 2131165368
+    REMOVE_string_index: "R.string.m47_1"
   }
-  name_ids: 2131165368
+  REMOVE_name_ids: "R.string.m47_1"
 }
 source {
   search_location {
@@ -1106,9 +1106,9 @@ source {
       declination: -5.8
     }
     color: 4761665
-    string_index: 2131165369
+    REMOVE_string_index: "R.string.m48_1"
   }
-  name_ids: 2131165369
+  REMOVE_name_ids: "R.string.m48_1"
 }
 source {
   search_location {
@@ -1129,9 +1129,9 @@ source {
       declination: 8.0
     }
     color: 4761665
-    string_index: 2131165370
+    REMOVE_string_index: "R.string.m49_1"
   }
-  name_ids: 2131165370
+  REMOVE_name_ids: "R.string.m49_1"
 }
 source {
   search_location {
@@ -1152,9 +1152,9 @@ source {
       declination: -8.33333
     }
     color: 4761665
-    string_index: 2131165372
+    REMOVE_string_index: "R.string.m50_1"
   }
-  name_ids: 2131165372
+  REMOVE_name_ids: "R.string.m50_1"
 }
 source {
   search_location {
@@ -1175,10 +1175,10 @@ source {
       declination: 47.2
     }
     color: 4761665
-    string_index: 2131165373
+    REMOVE_string_index: "R.string.m51"
   }
-  name_ids: 2131165373
-  name_ids: 2131165573
+  REMOVE_name_ids: "R.string.m51"
+  REMOVE_name_ids: "R.string.whirlpool_galaxy_1"
 }
 source {
   search_location {
@@ -1199,9 +1199,9 @@ source {
       declination: 61.58333
     }
     color: 4761665
-    string_index: 2131165374
+    REMOVE_string_index: "R.string.m52_1"
   }
-  name_ids: 2131165374
+  REMOVE_name_ids: "R.string.m52_1"
 }
 source {
   search_location {
@@ -1222,9 +1222,9 @@ source {
       declination: 18.16667
     }
     color: 4761665
-    string_index: 2131165375
+    REMOVE_string_index: "R.string.m53_1"
   }
-  name_ids: 2131165375
+  REMOVE_name_ids: "R.string.m53_1"
 }
 source {
   search_location {
@@ -1245,9 +1245,9 @@ source {
       declination: -30.48333
     }
     color: 4761665
-    string_index: 2131165376
+    REMOVE_string_index: "R.string.m54_1"
   }
-  name_ids: 2131165376
+  REMOVE_name_ids: "R.string.m54_1"
 }
 source {
   search_location {
@@ -1268,9 +1268,9 @@ source {
       declination: -30.96667
     }
     color: 4761665
-    string_index: 2131165377
+    REMOVE_string_index: "R.string.m55_1"
   }
-  name_ids: 2131165377
+  REMOVE_name_ids: "R.string.m55_1"
 }
 source {
   search_location {
@@ -1291,9 +1291,9 @@ source {
       declination: 30.18333
     }
     color: 4761665
-    string_index: 2131165378
+    REMOVE_string_index: "R.string.m56_1"
   }
-  name_ids: 2131165378
+  REMOVE_name_ids: "R.string.m56_1"
 }
 source {
   search_location {
@@ -1314,10 +1314,10 @@ source {
       declination: 33.03333
     }
     color: 4761665
-    string_index: 2131165379
+    REMOVE_string_index: "R.string.m57"
   }
-  name_ids: 2131165379
-  name_ids: 2131165494
+  REMOVE_name_ids: "R.string.m57"
+  REMOVE_name_ids: "R.string.ring_nebula_1"
 }
 source {
   search_location {
@@ -1338,9 +1338,9 @@ source {
       declination: 11.81667
     }
     color: 4761665
-    string_index: 2131165380
+    REMOVE_string_index: "R.string.m58_1"
   }
-  name_ids: 2131165380
+  REMOVE_name_ids: "R.string.m58_1"
 }
 source {
   search_location {
@@ -1361,9 +1361,9 @@ source {
       declination: 11.65
     }
     color: 4761665
-    string_index: 2131165381
+    REMOVE_string_index: "R.string.m59_1"
   }
-  name_ids: 2131165381
+  REMOVE_name_ids: "R.string.m59_1"
 }
 source {
   search_location {
@@ -1384,9 +1384,9 @@ source {
       declination: 11.55
     }
     color: 4761665
-    string_index: 2131165383
+    REMOVE_string_index: "R.string.m60_1"
   }
-  name_ids: 2131165383
+  REMOVE_name_ids: "R.string.m60_1"
 }
 source {
   search_location {
@@ -1407,9 +1407,9 @@ source {
       declination: 4.46667
     }
     color: 4761665
-    string_index: 2131165384
+    REMOVE_string_index: "R.string.m61_1"
   }
-  name_ids: 2131165384
+  REMOVE_name_ids: "R.string.m61_1"
 }
 source {
   search_location {
@@ -1430,9 +1430,9 @@ source {
       declination: -30.11667
     }
     color: 4761665
-    string_index: 2131165385
+    REMOVE_string_index: "R.string.m62_1"
   }
-  name_ids: 2131165385
+  REMOVE_name_ids: "R.string.m62_1"
 }
 source {
   search_location {
@@ -1453,9 +1453,9 @@ source {
       declination: 42.03333
     }
     color: 4761665
-    string_index: 2131165386
+    REMOVE_string_index: "R.string.m63_1"
   }
-  name_ids: 2131165386
+  REMOVE_name_ids: "R.string.m63_1"
 }
 source {
   search_location {
@@ -1476,9 +1476,9 @@ source {
       declination: 21.68333
     }
     color: 4761665
-    string_index: 2131165387
+    REMOVE_string_index: "R.string.m64_1"
   }
-  name_ids: 2131165387
+  REMOVE_name_ids: "R.string.m64_1"
 }
 source {
   search_location {
@@ -1499,9 +1499,9 @@ source {
       declination: 13.08333
     }
     color: 4761665
-    string_index: 2131165388
+    REMOVE_string_index: "R.string.m65_1"
   }
-  name_ids: 2131165388
+  REMOVE_name_ids: "R.string.m65_1"
 }
 source {
   search_location {
@@ -1522,9 +1522,9 @@ source {
       declination: 12.98333
     }
     color: 4761665
-    string_index: 2131165389
+    REMOVE_string_index: "R.string.m66_1"
   }
-  name_ids: 2131165389
+  REMOVE_name_ids: "R.string.m66_1"
 }
 source {
   search_location {
@@ -1545,9 +1545,9 @@ source {
       declination: 11.81667
     }
     color: 4761665
-    string_index: 2131165390
+    REMOVE_string_index: "R.string.m67_1"
   }
-  name_ids: 2131165390
+  REMOVE_name_ids: "R.string.m67_1"
 }
 source {
   search_location {
@@ -1568,9 +1568,9 @@ source {
       declination: -26.75
     }
     color: 4761665
-    string_index: 2131165391
+    REMOVE_string_index: "R.string.m68_1"
   }
-  name_ids: 2131165391
+  REMOVE_name_ids: "R.string.m68_1"
 }
 source {
   search_location {
@@ -1591,9 +1591,9 @@ source {
       declination: -32.35
     }
     color: 4761665
-    string_index: 2131165392
+    REMOVE_string_index: "R.string.m69_1"
   }
-  name_ids: 2131165392
+  REMOVE_name_ids: "R.string.m69_1"
 }
 source {
   search_location {
@@ -1614,9 +1614,9 @@ source {
       declination: -32.3
     }
     color: 4761665
-    string_index: 2131165394
+    REMOVE_string_index: "R.string.m70_1"
   }
-  name_ids: 2131165394
+  REMOVE_name_ids: "R.string.m70_1"
 }
 source {
   search_location {
@@ -1637,9 +1637,9 @@ source {
       declination: 18.78333
     }
     color: 4761665
-    string_index: 2131165395
+    REMOVE_string_index: "R.string.m71_1"
   }
-  name_ids: 2131165395
+  REMOVE_name_ids: "R.string.m71_1"
 }
 source {
   search_location {
@@ -1660,9 +1660,9 @@ source {
       declination: -12.53333
     }
     color: 4761665
-    string_index: 2131165396
+    REMOVE_string_index: "R.string.m72_1"
   }
-  name_ids: 2131165396
+  REMOVE_name_ids: "R.string.m72_1"
 }
 source {
   search_location {
@@ -1683,9 +1683,9 @@ source {
       declination: -12.63333
     }
     color: 4761665
-    string_index: 2131165397
+    REMOVE_string_index: "R.string.m73_1"
   }
-  name_ids: 2131165397
+  REMOVE_name_ids: "R.string.m73_1"
 }
 source {
   search_location {
@@ -1706,9 +1706,9 @@ source {
       declination: 15.78333
     }
     color: 4761665
-    string_index: 2131165398
+    REMOVE_string_index: "R.string.m74_1"
   }
-  name_ids: 2131165398
+  REMOVE_name_ids: "R.string.m74_1"
 }
 source {
   search_location {
@@ -1729,9 +1729,9 @@ source {
       declination: -21.91667
     }
     color: 4761665
-    string_index: 2131165399
+    REMOVE_string_index: "R.string.m75_1"
   }
-  name_ids: 2131165399
+  REMOVE_name_ids: "R.string.m75_1"
 }
 source {
   search_location {
@@ -1752,9 +1752,9 @@ source {
       declination: 51.56667
     }
     color: 4761665
-    string_index: 2131165400
+    REMOVE_string_index: "R.string.m76_1"
   }
-  name_ids: 2131165400
+  REMOVE_name_ids: "R.string.m76_1"
 }
 source {
   search_location {
@@ -1775,9 +1775,9 @@ source {
       declination: -0.01667
     }
     color: 4761665
-    string_index: 2131165401
+    REMOVE_string_index: "R.string.m77_1"
   }
-  name_ids: 2131165401
+  REMOVE_name_ids: "R.string.m77_1"
 }
 source {
   search_location {
@@ -1798,9 +1798,9 @@ source {
       declination: 0.05
     }
     color: 4761665
-    string_index: 2131165402
+    REMOVE_string_index: "R.string.m78_1"
   }
-  name_ids: 2131165402
+  REMOVE_name_ids: "R.string.m78_1"
 }
 source {
   search_location {
@@ -1821,9 +1821,9 @@ source {
       declination: -24.55
     }
     color: 4761665
-    string_index: 2131165403
+    REMOVE_string_index: "R.string.m79_1"
   }
-  name_ids: 2131165403
+  REMOVE_name_ids: "R.string.m79_1"
 }
 source {
   search_location {
@@ -1844,9 +1844,9 @@ source {
       declination: -22.98333
     }
     color: 4761665
-    string_index: 2131165405
+    REMOVE_string_index: "R.string.m80_1"
   }
-  name_ids: 2131165405
+  REMOVE_name_ids: "R.string.m80_1"
 }
 source {
   search_location {
@@ -1867,9 +1867,9 @@ source {
       declination: 69.06667
     }
     color: 4761665
-    string_index: 2131165406
+    REMOVE_string_index: "R.string.m81_1"
   }
-  name_ids: 2131165406
+  REMOVE_name_ids: "R.string.m81_1"
 }
 source {
   search_location {
@@ -1890,9 +1890,9 @@ source {
       declination: 69.68333
     }
     color: 4761665
-    string_index: 2131165407
+    REMOVE_string_index: "R.string.m82_1"
   }
-  name_ids: 2131165407
+  REMOVE_name_ids: "R.string.m82_1"
 }
 source {
   search_location {
@@ -1913,9 +1913,9 @@ source {
       declination: -29.86667
     }
     color: 4761665
-    string_index: 2131165408
+    REMOVE_string_index: "R.string.m83_1"
   }
-  name_ids: 2131165408
+  REMOVE_name_ids: "R.string.m83_1"
 }
 source {
   search_location {
@@ -1936,9 +1936,9 @@ source {
       declination: 12.88333
     }
     color: 4761665
-    string_index: 2131165409
+    REMOVE_string_index: "R.string.m84_1"
   }
-  name_ids: 2131165409
+  REMOVE_name_ids: "R.string.m84_1"
 }
 source {
   search_location {
@@ -1959,9 +1959,9 @@ source {
       declination: 18.18333
     }
     color: 4761665
-    string_index: 2131165410
+    REMOVE_string_index: "R.string.m85_1"
   }
-  name_ids: 2131165410
+  REMOVE_name_ids: "R.string.m85_1"
 }
 source {
   search_location {
@@ -1982,9 +1982,9 @@ source {
       declination: 12.95
     }
     color: 4761665
-    string_index: 2131165411
+    REMOVE_string_index: "R.string.m86_1"
   }
-  name_ids: 2131165411
+  REMOVE_name_ids: "R.string.m86_1"
 }
 source {
   search_location {
@@ -2005,9 +2005,9 @@ source {
       declination: 12.4
     }
     color: 4761665
-    string_index: 2131165412
+    REMOVE_string_index: "R.string.m87_1"
   }
-  name_ids: 2131165412
+  REMOVE_name_ids: "R.string.m87_1"
 }
 source {
   search_location {
@@ -2028,9 +2028,9 @@ source {
       declination: 14.41667
     }
     color: 4761665
-    string_index: 2131165413
+    REMOVE_string_index: "R.string.m88_1"
   }
-  name_ids: 2131165413
+  REMOVE_name_ids: "R.string.m88_1"
 }
 source {
   search_location {
@@ -2051,9 +2051,9 @@ source {
       declination: 12.55
     }
     color: 4761665
-    string_index: 2131165414
+    REMOVE_string_index: "R.string.m89_1"
   }
-  name_ids: 2131165414
+  REMOVE_name_ids: "R.string.m89_1"
 }
 source {
   search_location {
@@ -2074,9 +2074,9 @@ source {
       declination: 13.16667
     }
     color: 4761665
-    string_index: 2131165416
+    REMOVE_string_index: "R.string.m90_1"
   }
-  name_ids: 2131165416
+  REMOVE_name_ids: "R.string.m90_1"
 }
 source {
   search_location {
@@ -2097,9 +2097,9 @@ source {
       declination: 14.5
     }
     color: 4761665
-    string_index: 2131165417
+    REMOVE_string_index: "R.string.m91_1"
   }
-  name_ids: 2131165417
+  REMOVE_name_ids: "R.string.m91_1"
 }
 source {
   search_location {
@@ -2120,9 +2120,9 @@ source {
       declination: 43.13333
     }
     color: 4761665
-    string_index: 2131165418
+    REMOVE_string_index: "R.string.m92_1"
   }
-  name_ids: 2131165418
+  REMOVE_name_ids: "R.string.m92_1"
 }
 source {
   search_location {
@@ -2143,9 +2143,9 @@ source {
       declination: -23.86667
     }
     color: 4761665
-    string_index: 2131165419
+    REMOVE_string_index: "R.string.m93_1"
   }
-  name_ids: 2131165419
+  REMOVE_name_ids: "R.string.m93_1"
 }
 source {
   search_location {
@@ -2166,9 +2166,9 @@ source {
       declination: 41.11667
     }
     color: 4761665
-    string_index: 2131165420
+    REMOVE_string_index: "R.string.m94_1"
   }
-  name_ids: 2131165420
+  REMOVE_name_ids: "R.string.m94_1"
 }
 source {
   search_location {
@@ -2189,9 +2189,9 @@ source {
       declination: 11.7
     }
     color: 4761665
-    string_index: 2131165421
+    REMOVE_string_index: "R.string.m95_1"
   }
-  name_ids: 2131165421
+  REMOVE_name_ids: "R.string.m95_1"
 }
 source {
   search_location {
@@ -2212,9 +2212,9 @@ source {
       declination: 11.81667
     }
     color: 4761665
-    string_index: 2131165422
+    REMOVE_string_index: "R.string.m96_1"
   }
-  name_ids: 2131165422
+  REMOVE_name_ids: "R.string.m96_1"
 }
 source {
   search_location {
@@ -2235,9 +2235,9 @@ source {
       declination: 55.01667
     }
     color: 4761665
-    string_index: 2131165423
+    REMOVE_string_index: "R.string.m97_1"
   }
-  name_ids: 2131165423
+  REMOVE_name_ids: "R.string.m97_1"
 }
 source {
   search_location {
@@ -2258,9 +2258,9 @@ source {
       declination: 14.9
     }
     color: 4761665
-    string_index: 2131165424
+    REMOVE_string_index: "R.string.m98_1"
   }
-  name_ids: 2131165424
+  REMOVE_name_ids: "R.string.m98_1"
 }
 source {
   search_location {
@@ -2281,9 +2281,9 @@ source {
       declination: 14.41667
     }
     color: 4761665
-    string_index: 2131165425
+    REMOVE_string_index: "R.string.m99_1"
   }
-  name_ids: 2131165425
+  REMOVE_name_ids: "R.string.m99_1"
 }
 source {
   search_location {
@@ -2304,9 +2304,9 @@ source {
       declination: 15.81667
     }
     color: 4761665
-    string_index: 2131165318
+    REMOVE_string_index: "R.string.m100_1"
   }
-  name_ids: 2131165318
+  REMOVE_name_ids: "R.string.m100_1"
 }
 source {
   search_location {
@@ -2327,9 +2327,9 @@ source {
       declination: 54.35
     }
     color: 4761665
-    string_index: 2131165319
+    REMOVE_string_index: "R.string.m101_1"
   }
-  name_ids: 2131165319
+  REMOVE_name_ids: "R.string.m101_1"
 }
 source {
   search_location {
@@ -2350,9 +2350,9 @@ source {
       declination: 54.35
     }
     color: 4761665
-    string_index: 2131165320
+    REMOVE_string_index: "R.string.m102_1"
   }
-  name_ids: 2131165320
+  REMOVE_name_ids: "R.string.m102_1"
 }
 source {
   search_location {
@@ -2373,9 +2373,9 @@ source {
       declination: 60.7
     }
     color: 4761665
-    string_index: 2131165321
+    REMOVE_string_index: "R.string.m103_1"
   }
-  name_ids: 2131165321
+  REMOVE_name_ids: "R.string.m103_1"
 }
 source {
   search_location {
@@ -2396,9 +2396,9 @@ source {
       declination: -11.61667
     }
     color: 4761665
-    string_index: 2131165322
+    REMOVE_string_index: "R.string.m104_1"
   }
-  name_ids: 2131165322
+  REMOVE_name_ids: "R.string.m104_1"
 }
 source {
   search_location {
@@ -2419,9 +2419,9 @@ source {
       declination: 12.58333
     }
     color: 4761665
-    string_index: 2131165323
+    REMOVE_string_index: "R.string.m105_1"
   }
-  name_ids: 2131165323
+  REMOVE_name_ids: "R.string.m105_1"
 }
 source {
   search_location {
@@ -2442,9 +2442,9 @@ source {
       declination: 47.3
     }
     color: 4761665
-    string_index: 2131165324
+    REMOVE_string_index: "R.string.m106_1"
   }
-  name_ids: 2131165324
+  REMOVE_name_ids: "R.string.m106_1"
 }
 source {
   search_location {
@@ -2465,9 +2465,9 @@ source {
       declination: -13.05
     }
     color: 4761665
-    string_index: 2131165325
+    REMOVE_string_index: "R.string.m107_1"
   }
-  name_ids: 2131165325
+  REMOVE_name_ids: "R.string.m107_1"
 }
 source {
   search_location {
@@ -2488,9 +2488,9 @@ source {
       declination: 55.66667
     }
     color: 4761665
-    string_index: 2131165326
+    REMOVE_string_index: "R.string.m108_1"
   }
-  name_ids: 2131165326
+  REMOVE_name_ids: "R.string.m108_1"
 }
 source {
   search_location {
@@ -2511,9 +2511,9 @@ source {
       declination: 53.38333
     }
     color: 4761665
-    string_index: 2131165327
+    REMOVE_string_index: "R.string.m109_1"
   }
-  name_ids: 2131165327
+  REMOVE_name_ids: "R.string.m109_1"
 }
 source {
   search_location {
@@ -2534,9 +2534,9 @@ source {
       declination: 41.68333
     }
     color: 4761665
-    string_index: 2131165329
+    REMOVE_string_index: "R.string.m110_1"
   }
-  name_ids: 2131165329
+  REMOVE_name_ids: "R.string.m110_1"
 }
 source {
   search_location {
@@ -2557,10 +2557,10 @@ source {
       declination: 66.6332
     }
     color: 4761665
-    string_index: 2131165449
+    REMOVE_string_index: "R.string.ngc6543_1"
   }
-  name_ids: 2131165449
-  name_ids: 2131165233
+  REMOVE_name_ids: "R.string.ngc6543_1"
+  REMOVE_name_ids: "R.string.cats_eye_nebula_1"
 }
 source {
   search_location {
@@ -2581,10 +2581,10 @@ source {
       declination: -47.47686
     }
     color: 4761665
-    string_index: 2131165448
+    REMOVE_string_index: "R.string.ngc5139_1"
   }
-  name_ids: 2131165448
-  name_ids: 2131165459
+  REMOVE_name_ids: "R.string.ngc5139_1"
+  REMOVE_name_ids: "R.string.omega_centauri_1"
 }
 source {
   search_location {
@@ -2605,9 +2605,9 @@ source {
       declination: -3.84725
     }
     color: 4761665
-    string_index: 2131165566
+    REMOVE_string_index: "R.string.v838_mon_1"
   }
-  name_ids: 2131165566
+  REMOVE_name_ids: "R.string.v838_mon_1"
 }
 source {
   search_location {
@@ -2628,8 +2628,8 @@ source {
       declination: 62.21611
     }
     color: 4761665
-    string_index: 2131165687
+    REMOVE_string_index: "R.string.hdf"
   }
-  name_ids: 2131165687
-  name_ids: 2131165282
+  REMOVE_name_ids: "R.string.hdf"
+  REMOVE_name_ids: "R.string.hubble_deep_field_1"
 }

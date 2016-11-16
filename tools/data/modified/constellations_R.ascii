@@ -14,8 +14,8 @@ source {
       declination: 3.59
     }
     color: 2160688306
-    string_index: 2131165461
-  }
+    REMOVE_string_index: "R.string.orion_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -128,7 +128,7 @@ source {
       declination: 20.1333
     }
   }
-  name_ids: 2131165461
+  REMOVE_name_ids: "R.string.orion_1”
 }
 source {
   search_location {
@@ -141,8 +141,8 @@ source {
       declination: 24.82
     }
     color: 2160688306
-    string_index: 2131165271
-  }
+    REMOVE_string_index: "R.string.gemini_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -242,7 +242,7 @@ source {
       declination: 12.9
     }
   }
-  name_ids: 2131165271
+  REMOVE_name_ids: "R.string.gemini_1”
 }
 source {
   search_location {
@@ -255,8 +255,8 @@ source {
       declination: 23.56
     }
     color: 2160688306
-    string_index: 2131165223
-  }
+    REMOVE_string_index: "R.string.cancer_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -295,7 +295,7 @@ source {
       declination: 11.8667
     }
   }
-  name_ids: 2131165223
+  REMOVE_name_ids: "R.string.cancer_1”
 }
 source {
   search_location {
@@ -308,8 +308,8 @@ source {
       declination: 6.76
     }
     color: 2160688306
-    string_index: 2131165627
-  }
+    REMOVE_string_index: "R.string.canis_minor_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -321,7 +321,7 @@ source {
       declination: 8.2833
     }
   }
-  name_ids: 2131165627
+  REMOVE_name_ids: "R.string.canis_minor_1”
 }
 source {
   search_location {
@@ -334,8 +334,8 @@ source {
       declination: -22.69
     }
     color: 2160688306
-    string_index: 2131165224
-  }
+    REMOVE_string_index: "R.string.canis_major_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -439,7 +439,7 @@ source {
       declination: -32.5167
     }
   }
-  name_ids: 2131165224
+  REMOVE_name_ids: "R.string.canis_major_1”
 }
 source {
   search_location {
@@ -452,8 +452,8 @@ source {
       declination: -3.74
     }
     color: 2160688306
-    string_index: 2131165837
-  }
+    REMOVE_string_index: "R.string.monoceros_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -522,7 +522,7 @@ source {
       declination: -6.2833
     }
   }
-  name_ids: 2131165837
+  REMOVE_name_ids: "R.string.monoceros_1”
 }
 source {
   search_location {
@@ -535,8 +535,8 @@ source {
       declination: -19.35
     }
     color: 2160688306
-    string_index: 2131165708
-  }
+    REMOVE_string_index: "R.string.lepus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -613,7 +613,7 @@ source {
       declination: -12.95
     }
   }
-  name_ids: 2131165708
+  REMOVE_name_ids: "R.string.lepus_1”
 }
 source {
   search_location {
@@ -626,8 +626,8 @@ source {
       declination: -1.87
     }
     color: 2160688306
-    string_index: 2131165903
-  }
+    REMOVE_string_index: "R.string.sextans_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -647,7 +647,7 @@ source {
       declination: -0.37
     }
   }
-  name_ids: 2131165903
+  REMOVE_name_ids: "R.string.sextans_1”
 }
 source {
   search_location {
@@ -660,8 +660,8 @@ source {
       declination: -29.21
     }
     color: 2160688306
-    string_index: 2131165872
-  }
+    REMOVE_string_index: "R.string.pyxis_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -677,7 +677,7 @@ source {
       declination: -27.7
     }
   }
-  name_ids: 2131165872
+  REMOVE_name_ids: "R.string.pyxis_1”
 }
 source {
   search_location {
@@ -690,8 +690,8 @@ source {
       declination: 32.34
     }
     color: 2160688306
-    string_index: 2131165920
-  }
+    REMOVE_string_index: "R.string.triangulum_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -711,7 +711,7 @@ source {
       declination: 29.5833
     }
   }
-  name_ids: 2131165920
+  REMOVE_name_ids: "R.string.triangulum_1”
 }
 source {
   search_location {
@@ -724,8 +724,8 @@ source {
       declination: 22.57
     }
     color: 2160688306
-    string_index: 2131165214
-  }
+    REMOVE_string_index: "R.string.aries_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -745,7 +745,7 @@ source {
       declination: 27.2667
     }
   }
-  name_ids: 2131165214
+  REMOVE_name_ids: "R.string.aries_1”
 }
 source {
   search_location {
@@ -758,8 +758,8 @@ source {
       declination: 13.0
     }
     color: 2160688306
-    string_index: 2131165292
-  }
+    REMOVE_string_index: "R.string.leo_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -860,7 +860,7 @@ source {
       declination: 6.0333
     }
   }
-  name_ids: 2131165292
+  REMOVE_name_ids: "R.string.leo_1”
 }
 source {
   search_location {
@@ -873,8 +873,8 @@ source {
       declination: 33.24
     }
     color: 2160688306
-    string_index: 2131165706
-  }
+    REMOVE_string_index: "R.string.leo_minor_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -894,7 +894,7 @@ source {
       declination: 36.7
     }
   }
-  name_ids: 2131165706
+  REMOVE_name_ids: "R.string.leo_minor_1”
 }
 source {
   search_location {
@@ -907,8 +907,8 @@ source {
       declination: 47.83
     }
     color: 2160688306
-    string_index: 2131165714
-  }
+    REMOVE_string_index: "R.string.lynx_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -936,7 +936,7 @@ source {
       declination: 59.0167
     }
   }
-  name_ids: 2131165714
+  REMOVE_name_ids: "R.string.lynx_1”
 }
 source {
   search_location {
@@ -949,8 +949,8 @@ source {
       declination: -3.49
     }
     color: 2160688306
-    string_index: 2131165571
-  }
+    REMOVE_string_index: "R.string.virgo_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1020,7 +1020,7 @@ source {
       declination: 1.9
     }
   }
-  name_ids: 2131165571
+  REMOVE_name_ids: "R.string.virgo_1”
 }
 source {
   search_location {
@@ -1033,8 +1033,8 @@ source {
       declination: -48.51
     }
     color: 2160688306
-    string_index: 2131165568
-  }
+    REMOVE_string_index: "R.string.vela_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1070,7 +1070,7 @@ source {
       declination: -49.4333
     }
   }
-  name_ids: 2131165568
+  REMOVE_name_ids: "R.string.vela_1”
 }
 source {
   search_location {
@@ -1083,8 +1083,8 @@ source {
       declination: -44.0
     }
     color: 2160688306
-    string_index: 2131165234
-  }
+    REMOVE_string_index: "R.string.centaurus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1166,7 +1166,7 @@ source {
       declination: -63.0167
     }
   }
-  name_ids: 2131165234
+  REMOVE_name_ids: "R.string.centaurus_1”
 }
 source {
   search_location {
@@ -1179,8 +1179,8 @@ source {
       declination: -13.25
     }
     color: 2160688306
-    string_index: 2131165657
-  }
+    REMOVE_string_index: "R.string.crater_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1227,7 +1227,7 @@ source {
       declination: -14.7667
     }
   }
-  name_ids: 2131165657
+  REMOVE_name_ids: "R.string.crater_1”
 }
 source {
   search_location {
@@ -1240,8 +1240,8 @@ source {
       declination: -33.65
     }
     color: 2160688306
-    string_index: 2131165602
-  }
+    REMOVE_string_index: "R.string.antlia_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1265,7 +1265,7 @@ source {
       declination: -31.0833
     }
   }
-  name_ids: 2131165602
+  REMOVE_name_ids: "R.string.antlia_1”
 }
 source {
   search_location {
@@ -1278,8 +1278,8 @@ source {
       declination: -11.32
     }
     color: 2160688306
-    string_index: 2131165694
-  }
+    REMOVE_string_index: "R.string.hydra_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1355,7 +1355,7 @@ source {
       declination: 5.95
     }
   }
-  name_ids: 2131165694
+  REMOVE_name_ids: "R.string.hydra_1”
 }
 source {
   search_location {
@@ -1368,8 +1368,8 @@ source {
       declination: -32.39
     }
     color: 2160688306
-    string_index: 2131165487
-  }
+    REMOVE_string_index: "R.string.puppis_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1420,7 +1420,7 @@ source {
       declination: -44.65
     }
   }
-  name_ids: 2131165487
+  REMOVE_name_ids: "R.string.puppis_1”
 }
 source {
   search_location {
@@ -1433,8 +1433,8 @@ source {
       declination: -37.08
     }
     color: 2160688306
-    string_index: 2131165646
-  }
+    REMOVE_string_index: "R.string.columba_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1469,7 +1469,7 @@ source {
       declination: -42.8167
     }
   }
-  name_ids: 2131165646
+  REMOVE_name_ids: "R.string.columba_1”
 }
 source {
   search_location {
@@ -1482,8 +1482,8 @@ source {
       declination: -57.17
     }
     color: 2160688306
-    string_index: 2131165230
-  }
+    REMOVE_string_index: "R.string.carina_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1535,7 +1535,7 @@ source {
       declination: -59.2667
     }
   }
-  name_ids: 2131165230
+  REMOVE_name_ids: "R.string.carina_1”
 }
 source {
   search_location {
@@ -1548,8 +1548,8 @@ source {
       declination: 60.3
     }
     color: 2160688306
-    string_index: 2131165231
-  }
+    REMOVE_string_index: "R.string.cassiopeia_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1584,7 +1584,7 @@ source {
       declination: 59.15
     }
   }
-  name_ids: 2131165231
+  REMOVE_name_ids: "R.string.cassiopeia_1”
 }
 source {
   search_location {
@@ -1597,8 +1597,8 @@ source {
       declination: -51.63
     }
     color: 2160688306
-    string_index: 2131165859
-  }
+    REMOVE_string_index: "R.string.pictor_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1622,7 +1622,7 @@ source {
       declination: -61.9333
     }
   }
-  name_ids: 2131165859
+  REMOVE_name_ids: "R.string.pictor_1”
 }
 source {
   search_location {
@@ -1635,8 +1635,8 @@ source {
       declination: -63.99
     }
     color: 2160688306
-    string_index: 2131165668
-  }
+    REMOVE_string_index: "R.string.dorado_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1660,7 +1660,7 @@ source {
       declination: -65.7333
     }
   }
-  name_ids: 2131165668
+  REMOVE_name_ids: "R.string.dorado_1”
 }
 source {
   search_location {
@@ -1673,8 +1673,8 @@ source {
       declination: 39.25
     }
     color: 2160688306
-    string_index: 2131165205
-  }
+    REMOVE_string_index: "R.string.andromeda_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1786,7 +1786,7 @@ source {
       declination: 15.289721
     }
   }
-  name_ids: 2131165205
+  REMOVE_name_ids: "R.string.andromeda_1”
 }
 source {
   search_location {
@@ -1799,8 +1799,8 @@ source {
       declination: 46.67
     }
     color: 2160688306
-    string_index: 2131165703
-  }
+    REMOVE_string_index: "R.string.lacerta_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1831,7 +1831,7 @@ source {
       declination: 46.4667
     }
   }
-  name_ids: 2131165703
+  REMOVE_name_ids: "R.string.lacerta_1”
 }
 source {
   search_location {
@@ -1844,8 +1844,8 @@ source {
       declination: 17.34
     }
     color: 2160688306
-    string_index: 2131165538
-  }
+    REMOVE_string_index: "R.string.taurus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1938,7 +1938,7 @@ source {
       declination: 44.95
     }
   }
-  name_ids: 2131165538
+  REMOVE_name_ids: "R.string.taurus_1”
 }
 source {
   search_location {
@@ -1951,8 +1951,8 @@ source {
       declination: 42.81
     }
     color: 2160688306
-    string_index: 2131165216
-  }
+    REMOVE_string_index: "R.string.auriga_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -1972,7 +1972,7 @@ source {
       declination: 54.2833
     }
   }
-  name_ids: 2131165216
+  REMOVE_name_ids: "R.string.auriga_1”
 }
 source {
   search_location {
@@ -1985,8 +1985,8 @@ source {
       declination: -52.0
     }
     color: 2160688306
-    string_index: 2131165691
-  }
+    REMOVE_string_index: "R.string.horologium_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2006,7 +2006,7 @@ source {
       declination: -54.55
     }
   }
-  name_ids: 2131165691
+  REMOVE_name_ids: "R.string.horologium_1”
 }
 source {
   search_location {
@@ -2019,8 +2019,8 @@ source {
       declination: -38.83
     }
     color: 2160688306
-    string_index: 2131165619
-  }
+    REMOVE_string_index: "R.string.caelum_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2040,7 +2040,7 @@ source {
       declination: -44.95
     }
   }
-  name_ids: 2131165619
+  REMOVE_name_ids: "R.string.caelum_1”
 }
 source {
   search_location {
@@ -2053,8 +2053,8 @@ source {
       declination: -31.43
     }
     color: 2160688306
-    string_index: 2131165473
-  }
+    REMOVE_string_index: "R.string.piscis_austrinus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2078,7 +2078,7 @@ source {
       declination: -35.721157
     }
   }
-  name_ids: 2131165473
+  REMOVE_name_ids: "R.string.piscis_austrinus_1”
 }
 source {
   search_location {
@@ -2091,8 +2091,8 @@ source {
       declination: -35.49
     }
     color: 2160688306
-    string_index: 2131165894
-  }
+    REMOVE_string_index: "R.string.sculptor_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2108,7 +2108,7 @@ source {
       declination: -35.721157
     }
   }
-  name_ids: 2131165894
+  REMOVE_name_ids: "R.string.sculptor_1”
 }
 source {
   search_location {
@@ -2121,8 +2121,8 @@ source {
       declination: -6.64
     }
     color: 2160688306
-    string_index: 2131165235
-  }
+    REMOVE_string_index: "R.string.cetus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2197,7 +2197,7 @@ source {
       declination: -15.9333
     }
   }
-  name_ids: 2131165235
+  REMOVE_name_ids: "R.string.cetus_1”
 }
 source {
   search_location {
@@ -2210,8 +2210,8 @@ source {
       declination: -30.94
     }
     color: 2160688306
-    string_index: 2131165680
-  }
+    REMOVE_string_index: "R.string.fornax_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2227,7 +2227,7 @@ source {
       declination: -29.3
     }
   }
-  name_ids: 2131165680
+  REMOVE_name_ids: "R.string.fornax_1”
 }
 source {
   search_location {
@@ -2240,8 +2240,8 @@ source {
       declination: -48.23
     }
     color: 2160688306
-    string_index: 2131165470
-  }
+    REMOVE_string_index: "R.string.phoenix_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2310,7 +2310,7 @@ source {
       declination: -45.75
     }
   }
-  name_ids: 2131165470
+  REMOVE_name_ids: "R.string.phoenix_1”
 }
 source {
   search_location {
@@ -2323,8 +2323,8 @@ source {
       declination: -64.06
     }
     color: 2160688306
-    string_index: 2131165557
-  }
+    REMOVE_string_index: "R.string.tucana_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2344,7 +2344,7 @@ source {
       declination: -47.77687
     }
   }
-  name_ids: 2131165557
+  REMOVE_name_ids: "R.string.tucana_1”
 }
 source {
   search_location {
@@ -2357,8 +2357,8 @@ source {
       declination: 71.96
     }
     color: 2160688306
-    string_index: 2131165621
-  }
+    REMOVE_string_index: "R.string.camelopardalis_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2393,7 +2393,7 @@ source {
       declination: 76.9667
     }
   }
-  name_ids: 2131165621
+  REMOVE_name_ids: "R.string.camelopardalis_1”
 }
 source {
   search_location {
@@ -2406,8 +2406,8 @@ source {
       declination: -17.01
     }
     color: 2160688306
-    string_index: 2131165262
-  }
+    REMOVE_string_index: "R.string.eridanus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2523,7 +2523,7 @@ source {
       declination: -5.0833
     }
   }
-  name_ids: 2131165262
+  REMOVE_name_ids: "R.string.eridanus_1”
 }
 source {
   search_location {
@@ -2536,8 +2536,8 @@ source {
       declination: 19.65
     }
     color: 2160688306
-    string_index: 2131165466
-  }
+    REMOVE_string_index: "R.string.pegasus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2607,7 +2607,7 @@ source {
       declination: 9.8833
     }
   }
-  name_ids: 2131165466
+  REMOVE_name_ids: "R.string.pegasus_1”
 }
 source {
   search_location {
@@ -2620,8 +2620,8 @@ source {
       declination: 44.89
     }
     color: 2160688306
-    string_index: 2131165468
-  }
+    REMOVE_string_index: "R.string.perseus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2767,7 +2767,7 @@ source {
       declination: 50.6833
     }
   }
-  name_ids: 2131165468
+  REMOVE_name_ids: "R.string.perseus_1”
 }
 source {
   search_location {
@@ -2780,8 +2780,8 @@ source {
       declination: 15.48
     }
     color: 2160688306
-    string_index: 2131165472
-  }
+    REMOVE_string_index: "R.string.pisces_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2833,7 +2833,7 @@ source {
       declination: 6.883096
     }
   }
-  name_ids: 2131165472
+  REMOVE_name_ids: "R.string.pisces_1”
 }
 source {
   search_location {
@@ -2846,8 +2846,8 @@ source {
       declination: -10.53
     }
     color: 2160688306
-    string_index: 2131165211
-  }
+    REMOVE_string_index: "R.string.aquarius_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -2894,7 +2894,7 @@ source {
       declination: 3.8167
     }
   }
-  name_ids: 2131165211
+  REMOVE_name_ids: "R.string.aquarius_1”
 }
 source {
   search_location {
@@ -2907,8 +2907,8 @@ source {
       declination: 57.48
     }
     color: 2160688306
-    string_index: 2131165560
-  }
+    REMOVE_string_index: "R.string.ursa_major_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3022,10 +3022,10 @@ source {
       declination: 41.5
     }
   }
-  name_ids: 2131165560
-  name_ids: 2131165476
-  name_ids: 2131165219
-  name_ids: 2131165274
+  REMOVE_name_ids: "R.string.ursa_major"
+  REMOVE_name_ids: "R.string.plough"
+  REMOVE_name_ids: "R.string.big_dipper"
+  REMOVE_name_ids: "R.string.great_bear_1”
 }
 source {
   search_location {
@@ -3038,8 +3038,8 @@ source {
       declination: -60.49
     }
     color: 2160688306
-    string_index: 2131165876
-  }
+    REMOVE_string_index: "R.string.reticulum_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3051,7 +3051,7 @@ source {
       declination: 89.52555
     }
   }
-  name_ids: 2131165876
+  REMOVE_name_ids: "R.string.reticulum_1”
 }
 source {
   search_location {
@@ -3064,8 +3064,8 @@ source {
       declination: 66.06
     }
     color: 2160688306
-    string_index: 2131165252
-  }
+    REMOVE_string_index: "R.string.draco_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3101,7 +3101,7 @@ source {
       declination: 77.8
     }
   }
-  name_ids: 2131165252
+  REMOVE_name_ids: "R.string.draco_1”
 }
 source {
   search_location {
@@ -3114,8 +3114,8 @@ source {
       declination: 72.56
     }
     color: 2160688306
-    string_index: 2131165639
-  }
+    REMOVE_string_index: "R.string.cepheus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3154,7 +3154,7 @@ source {
       declination: 66.2
     }
   }
-  name_ids: 2131165639
+  REMOVE_name_ids: "R.string.cepheus_1”
 }
 source {
   search_location {
@@ -3167,8 +3167,8 @@ source {
       declination: -80.5
     }
     color: 2160688306
-    string_index: 2131165642
-  }
+    REMOVE_string_index: "R.string.chamaeleon_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3196,7 +3196,7 @@ source {
       declination: -76.9167
     }
   }
-  name_ids: 2131165642
+  REMOVE_name_ids: "R.string.chamaeleon_1”
 }
 source {
   search_location {
@@ -3209,8 +3209,8 @@ source {
       declination: -67.7
     }
     color: 2160688306
-    string_index: 2131165644
-  }
+    REMOVE_string_index: "R.string.circinus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3226,7 +3226,7 @@ source {
       declination: -58.8
     }
   }
-  name_ids: 2131165644
+  REMOVE_name_ids: "R.string.circinus_1”
 }
 source {
   search_location {
@@ -3239,8 +3239,8 @@ source {
       declination: 22.65
     }
     color: 2160688306
-    string_index: 2131165648
-  }
+    REMOVE_string_index: "R.string.coma_berenices_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3256,7 +3256,7 @@ source {
       declination: 28.2667
     }
   }
-  name_ids: 2131165648
+  REMOVE_name_ids: "R.string.coma_berenices_1”
 }
 source {
   search_location {
@@ -3269,8 +3269,8 @@ source {
       declination: -41.25
     }
     color: 2160688306
-    string_index: 2131165650
-  }
+    REMOVE_string_index: "R.string.corona_australis_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3314,7 +3314,7 @@ source {
       declination: -42.3167
     }
   }
-  name_ids: 2131165650
+  REMOVE_name_ids: "R.string.corona_australis_1”
 }
 source {
   search_location {
@@ -3327,8 +3327,8 @@ source {
       declination: 32.63
     }
     color: 2160688306
-    string_index: 2131165652
-  }
+    REMOVE_string_index: "R.string.corona_borealis_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3360,7 +3360,7 @@ source {
       declination: 29.85
     }
   }
-  name_ids: 2131165652
+  REMOVE_name_ids: "R.string.corona_borealis_1”
 }
 source {
   search_location {
@@ -3373,8 +3373,8 @@ source {
       declination: -59.7
     }
     color: 2160688306
-    string_index: 2131165240
-  }
+    REMOVE_string_index: "R.string.crux_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3386,8 +3386,8 @@ source {
       declination: -58.75
     }
   }
-  name_ids: 2131165240
-  name_ids: 2131165531
+  REMOVE_name_ids: "R.string.crux"
+  REMOVE_name_ids: "R.string.southern_cross_1”
 }
 source {
   search_location {
@@ -3400,8 +3400,8 @@ source {
       declination: -69.87
     }
     color: 2160688306
-    string_index: 2131165839
-  }
+    REMOVE_string_index: "R.string.musca_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3413,7 +3413,7 @@ source {
       declination: -63.1
     }
   }
-  name_ids: 2131165839
+  REMOVE_name_ids: "R.string.musca_1”
 }
 source {
   search_location {
@@ -3426,8 +3426,8 @@ source {
       declination: -18.36
     }
     color: 2160688306
-    string_index: 2131165654
-  }
+    REMOVE_string_index: "R.string.corvus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3455,7 +3455,7 @@ source {
       declination: -22.6167
     }
   }
-  name_ids: 2131165654
+  REMOVE_name_ids: "R.string.corvus_1”
 }
 source {
   search_location {
@@ -3468,8 +3468,8 @@ source {
       declination: 42.35
     }
     color: 2160688306
-    string_index: 2131165624
-  }
+    REMOVE_string_index: "R.string.canes_venatici_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3481,7 +3481,7 @@ source {
       declination: 41.35
     }
   }
-  name_ids: 2131165624
+  REMOVE_name_ids: "R.string.canes_venatici_1”
 }
 source {
   search_location {
@@ -3494,8 +3494,8 @@ source {
       declination: 49.58
     }
     color: 2160688306
-    string_index: 2131165242
-  }
+    REMOVE_string_index: "R.string.cygnus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3542,7 +3542,7 @@ source {
       declination: 51.7333
     }
   }
-  name_ids: 2131165242
+  REMOVE_name_ids: "R.string.cygnus_1”
 }
 source {
   search_location {
@@ -3555,8 +3555,8 @@ source {
       declination: 12.1
     }
     color: 2160688306
-    string_index: 2131165661
-  }
+    REMOVE_string_index: "R.string.delphinus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3584,7 +3584,7 @@ source {
       declination: 14.6
     }
   }
-  name_ids: 2131165661
+  REMOVE_name_ids: "R.string.delphinus_1”
 }
 source {
   search_location {
@@ -3597,8 +3597,8 @@ source {
       declination: 82.04
     }
     color: 2160688306
-    string_index: 2131165561
-  }
+    REMOVE_string_index: "R.string.ursa_minor_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3666,9 +3666,9 @@ source {
       declination: 56.8667
     }
   }
-  name_ids: 2131165561
-  name_ids: 2131165295
-  name_ids: 2131165296
+  REMOVE_name_ids: "R.string.ursa_minor"
+  REMOVE_name_ids: "R.string.little_bear"
+  REMOVE_name_ids: "R.string.little_dipper_1”
 }
 source {
   search_location {
@@ -3681,8 +3681,8 @@ source {
       declination: 7.94
     }
     color: 2160688306
-    string_index: 2131165674
-  }
+    REMOVE_string_index: "R.string.equuleus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3698,7 +3698,7 @@ source {
       declination: 10.1333
     }
   }
-  name_ids: 2131165674
+  REMOVE_name_ids: "R.string.equuleus_1”
 }
 source {
   search_location {
@@ -3711,8 +3711,8 @@ source {
       declination: -42.86
     }
     color: 2160688306
-    string_index: 2131165275
-  }
+    REMOVE_string_index: "R.string.grus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3759,7 +3759,7 @@ source {
       declination: -37.3667
     }
   }
-  name_ids: 2131165275
+  REMOVE_name_ids: "R.string.grus_1”
 }
 source {
   search_location {
@@ -3772,8 +3772,8 @@ source {
       declination: 31.23
     }
     color: 2160688306
-    string_index: 2131165279
-  }
+    REMOVE_string_index: "R.string.hercules_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3905,7 +3905,7 @@ source {
       declination: 18.1833
     }
   }
-  name_ids: 2131165279
+  REMOVE_name_ids: "R.string.hercules_1”
 }
 source {
   search_location {
@@ -3918,8 +3918,8 @@ source {
       declination: -72.08
     }
     color: 2160688306
-    string_index: 2131165285
-  }
+    REMOVE_string_index: "R.string.hydrus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3943,7 +3943,7 @@ source {
       declination: -61.5667
     }
   }
-  name_ids: 2131165285
+  REMOVE_name_ids: "R.string.hydrus_1”
 }
 source {
   search_location {
@@ -3956,8 +3956,8 @@ source {
       declination: -52.68
     }
     color: 2160688306
-    string_index: 2131165697
-  }
+    REMOVE_string_index: "R.string.indus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -3984,7 +3984,7 @@ source {
       declination: -58.45
     }
   }
-  name_ids: 2131165697
+  REMOVE_name_ids: "R.string.indus_1”
 }
 source {
   search_location {
@@ -3997,8 +3997,8 @@ source {
       declination: 25.03
     }
     color: 2160688306
-    string_index: 2131165935
-  }
+    REMOVE_string_index: "R.string.vulpecula_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4049,7 +4049,7 @@ source {
       declination: 37.75
     }
   }
-  name_ids: 2131165935
+  REMOVE_name_ids: "R.string.vulpecula_1”
 }
 source {
   search_location {
@@ -4062,8 +4062,8 @@ source {
       declination: -15.45
     }
     color: 2160688306
-    string_index: 2131165294
-  }
+    REMOVE_string_index: "R.string.libra_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4102,7 +4102,7 @@ source {
       declination: -16.05
     }
   }
-  name_ids: 2131165294
+  REMOVE_name_ids: "R.string.libra_1”
 }
 source {
   search_location {
@@ -4115,8 +4115,8 @@ source {
       declination: -42.28
     }
     color: 2160688306
-    string_index: 2131165313
-  }
+    REMOVE_string_index: "R.string.lupus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4168,7 +4168,7 @@ source {
       declination: -46.0667
     }
   }
-  name_ids: 2131165313
+  REMOVE_name_ids: "R.string.lupus_1”
 }
 source {
   search_location {
@@ -4181,8 +4181,8 @@ source {
       declination: 40.65
     }
     color: 2160688306
-    string_index: 2131165314
-  }
+    REMOVE_string_index: "R.string.lyra_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4210,7 +4210,7 @@ source {
       declination: 37.6
     }
   }
-  name_ids: 2131165314
+  REMOVE_name_ids: "R.string.lyra_1”
 }
 source {
   search_location {
@@ -4223,8 +4223,8 @@ source {
       declination: -79.99
     }
     color: 2160688306
-    string_index: 2131165829
-  }
+    REMOVE_string_index: "R.string.mensa_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4244,7 +4244,7 @@ source {
       declination: -71.3167
     }
   }
-  name_ids: 2131165829
+  REMOVE_name_ids: "R.string.mensa_1”
 }
 source {
   search_location {
@@ -4257,8 +4257,8 @@ source {
       declination: -36.2
     }
     color: 2160688306
-    string_index: 2131165832
-  }
+    REMOVE_string_index: "R.string.microscopium_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4286,7 +4286,7 @@ source {
       declination: -33.7833
     }
   }
-  name_ids: 2131165832
+  REMOVE_name_ids: "R.string.microscopium_1”
 }
 source {
   search_location {
@@ -4299,8 +4299,8 @@ source {
       declination: -65.9
     }
     color: 2160688306
-    string_index: 2131165922
-  }
+    REMOVE_string_index: "R.string.triangulum_australe_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4332,7 +4332,7 @@ source {
       declination: -69.1333
     }
   }
-  name_ids: 2131165922
+  REMOVE_name_ids: "R.string.triangulum_australe_1”
 }
 source {
   search_location {
@@ -4345,8 +4345,8 @@ source {
       declination: -52.29
     }
     color: 2160688306
-    string_index: 2131165844
-  }
+    REMOVE_string_index: "R.string.norma_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4370,7 +4370,7 @@ source {
       declination: -45.1667
     }
   }
-  name_ids: 2131165844
+  REMOVE_name_ids: "R.string.norma_1”
 }
 source {
   search_location {
@@ -4383,8 +4383,8 @@ source {
       declination: -65.14
     }
     color: 2160688306
-    string_index: 2131165465
-  }
+    REMOVE_string_index: "R.string.pavo_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4404,7 +4404,7 @@ source {
       declination: -81.3833
     }
   }
-  name_ids: 2131165465
+  REMOVE_name_ids: "R.string.pavo_1”
 }
 source {
   search_location {
@@ -4417,8 +4417,8 @@ source {
       declination: -2.65
     }
     color: 2160688306
-    string_index: 2131165460
-  }
+    REMOVE_string_index: "R.string.ophiuchus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4613,7 +4613,7 @@ source {
       declination: 9.5667
     }
   }
-  name_ids: 2131165460
+  REMOVE_name_ids: "R.string.ophiuchus_1”
 }
 source {
   search_location {
@@ -4626,8 +4626,8 @@ source {
       declination: -51.54
     }
     color: 2160688306
-    string_index: 2131165918
-  }
+    REMOVE_string_index: "R.string.telescopium_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4712,7 +4712,7 @@ source {
       declination: -64.7333
     }
   }
-  name_ids: 2131165918
+  REMOVE_name_ids: "R.string.telescopium_1”
 }
 source {
   search_location {
@@ -4725,8 +4725,8 @@ source {
       declination: -19.65
     }
     color: 2160688306
-    string_index: 2131165229
-  }
+    REMOVE_string_index: "R.string.capricornus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4774,8 +4774,8 @@ source {
       declination: -32.55
     }
   }
-  name_ids: 2131165229
-  name_ids: 2131165228
+  REMOVE_name_ids: "R.string.capricornus"
+  REMOVE_name_ids: "R.string.capricorn_1”
 }
 source {
   search_location {
@@ -4788,8 +4788,8 @@ source {
       declination: -69.39
     }
     color: 2160688306
-    string_index: 2131165933
-  }
+    REMOVE_string_index: "R.string.volans_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4813,7 +4813,7 @@ source {
       declination: -62.4667
     }
   }
-  name_ids: 2131165933
+  REMOVE_name_ids: "R.string.volans_1”
 }
 source {
   search_location {
@@ -4826,8 +4826,8 @@ source {
       declination: -35.67
     }
     color: 2160688306
-    string_index: 2131165501
-  }
+    REMOVE_string_index: "R.string.scorpius_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4906,8 +4906,8 @@ source {
       declination: -26.1167
     }
   }
-  name_ids: 2131165501
-  name_ids: 2131165499
+  REMOVE_name_ids: "R.string.scorpius"
+  REMOVE_name_ids: "R.string.scorpio_1”
 }
 source {
   search_location {
@@ -4920,8 +4920,8 @@ source {
       declination: -10.11
     }
     color: 2160688306
-    string_index: 2131165896
-  }
+    REMOVE_string_index: "R.string.scutum_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4937,7 +4937,7 @@ source {
       declination: -14.5667
     }
   }
-  name_ids: 2131165896
+  REMOVE_name_ids: "R.string.scutum_1”
 }
 source {
   search_location {
@@ -4950,8 +4950,8 @@ source {
       declination: 18.0
     }
     color: 2160688306
-    string_index: 2131165886
-  }
+    REMOVE_string_index: "R.string.sagitta_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -4978,7 +4978,7 @@ source {
       declination: 17.4833
     }
   }
-  name_ids: 2131165886
+  REMOVE_name_ids: "R.string.sagitta_1”
 }
 source {
   search_location {
@@ -4991,8 +4991,8 @@ source {
       declination: -29.11
     }
     color: 2160688306
-    string_index: 2131165495
-  }
+    REMOVE_string_index: "R.string.sagittarius_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5062,7 +5062,7 @@ source {
       declination: -44.4667
     }
   }
-  name_ids: 2131165495
+  REMOVE_name_ids: "R.string.sagittarius_1”
 }
 source {
   search_location {
@@ -5075,8 +5075,8 @@ source {
       declination: -76.41
     }
     color: 2160688306
-    string_index: 2131165604
-  }
+    REMOVE_string_index: "R.string.apus_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5100,7 +5100,7 @@ source {
       declination: -78.7
     }
   }
-  name_ids: 2131165604
+  REMOVE_name_ids: "R.string.apus_1”
 }
 source {
   search_location {
@@ -5113,8 +5113,8 @@ source {
       declination: 3.37
     }
     color: 2160688306
-    string_index: 2131165212
-  }
+    REMOVE_string_index: "R.string.aquila_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5162,7 +5162,7 @@ source {
       declination: 15.0667
     }
   }
-  name_ids: 2131165212
+  REMOVE_name_ids: "R.string.aquila_1”
 }
 source {
   search_location {
@@ -5175,8 +5175,8 @@ source {
       declination: -13.52
     }
     color: 2160688306
-    string_index: 2131165900
-  }
+    REMOVE_string_index: "R.string.serpens_cauda_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5285,7 +5285,7 @@ source {
       declination: -23.75
     }
   }
-  name_ids: 2131165900
+  REMOVE_name_ids: "R.string.serpens_cauda_1”
 }
 source {
   search_location {
@@ -5298,8 +5298,8 @@ source {
       declination: -84.73
     }
     color: 2160688306
-    string_index: 2131165848
-  }
+    REMOVE_string_index: "R.string.octans_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5319,7 +5319,7 @@ source {
       declination: -20.9167
     }
   }
-  name_ids: 2131165848
+  REMOVE_name_ids: "R.string.octans_1”
 }
 source {
   search_location {
@@ -5332,8 +5332,8 @@ source {
       declination: -51.89
     }
     color: 2160688306
-    string_index: 2131165608
-  }
+    REMOVE_string_index: "R.string.ara_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5379,7 +5379,7 @@ source {
       declination: -59.05
     }
   }
-  name_ids: 2131165608
+  REMOVE_name_ids: "R.string.ara_1”
 }
 source {
   search_location {
@@ -5392,8 +5392,8 @@ source {
       declination: 10.85
     }
     color: 2160688306
-    string_index: 2131165898
-  }
+    REMOVE_string_index: "R.string.serpens_caput_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5440,7 +5440,7 @@ source {
       declination: -70.3833
     }
   }
-  name_ids: 2131165898
+  REMOVE_name_ids: "R.string.serpens_caput_1”
 }
 source {
   search_location {
@@ -5453,8 +5453,8 @@ source {
       declination: 32.33
     }
     color: 2160688306
-    string_index: 2131165220
-  }
+    REMOVE_string_index: "R.string.bootes_1”
+}
   line {
     color: 2160688306
     vertex {
@@ -5470,7 +5470,7 @@ source {
       declination: 21.4
     }
   }
-  name_ids: 2131165220
+  REMOVE_name_ids: "R.string.bootes_1”
 }
 source {
   line {
@@ -5781,3 +5781,4 @@ source {
     }
   }
 }
+
